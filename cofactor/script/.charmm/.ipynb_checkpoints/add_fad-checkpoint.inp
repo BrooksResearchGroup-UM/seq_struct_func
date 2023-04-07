@@ -1,0 +1,71 @@
+*Add fad cofactor to vacuum minimized structure
+*
+
+!read rtf
+read rtf card name @toppardir/top_all36_prot.rtf
+read param card name @toppardir/par_all36m_prot.prm flex
+read rtf card name @toppardir/top_all36_cgenff.rtf append
+
+bomlev -2
+read param card name @toppardir/par_all36_cgenff.prm flex append
+stream @toppardir/st2_fadh.str
+bomlev 0
+
+!read in protein
+read psf card name @modeldir/@protein.psf 
+read coor pdb name @modeldir/@protein.pdb resid
+
+!nbonds
+nbonds elec atom cdie eps 1 fswitch vdw vatom vfswitch cutnb 10 ctofnb 8 ctonnb 7
+
+energy
+
+!generate fad
+read sequ pdb name @tropbdir/fad_in.pdb
+generate FADH setup
+auto angle dihe 
+read coor pdb name @tropbdir/fad_in.pdb resid
+
+energy
+
+!Minimize structure
+
+!define flexible side chains around FAD
+define alphaC sele type ca .and. ( segid PROA ) end
+define backbone sele ( segid PROA ) .and. (-
+    type n .or. type ca .or. type c .or. -
+    type o .or. type oct* .or. type ha* .or. -
+    type hn .or. type ht*-
+) end
+	
+define flexres sele .byres. ((segid PROA) .AND. (segid FADH .around. 5)) end
+define flexresca sele flexres .and. alphaC end
+define flexressc sele (flexres .and. ( .not. backbone)) end
+
+write psf card name @outdir/@protein_fad.psf
+
+!restrain backbone atoms first letting sidechains and fad move
+cons harm abso force 50 sele backbone end
+mini sd 200 tolenr .001 tolgrd .0001
+cons harm clear
+
+!restrain all atoms except nearby side chains and fad
+cons harm abso force 50 sele (.not. flexressc) .and. segid PROA end
+mini sd 200 tolenr .001 tolgrd .0001
+cons harm clear
+
+!restrain everything except fad
+cons harm abso force 50 select segid PROA .AND. .NOT. type H* end
+mini sd 200 tolenr .001 tolgrd .0001
+mini abnr 1000 tolenr .001 tolgrd .0001
+cons harm clear
+cons fix sele none end
+
+energy
+INTE sele segid FADH end sele segid PROA end
+
+
+write coor pdb name @outdir/@protein_fad.pdb
+
+stop
+

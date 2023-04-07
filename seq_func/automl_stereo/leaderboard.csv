@@ -1,0 +1,27 @@
+name,model_type,metric_type,metric_value,train_time,single_prediction_time
+1_Default_Xgboost,Xgboost,logloss,0.6591145157297871,165.87,0.25
+2_Default_CatBoost,CatBoost,logloss,0.6396236109418858,173.76,0.0271
+3_Default_RandomForest,Random Forest,logloss,0.6367596836787832,52.97,0.3148
+4_Xgboost,Xgboost,logloss,0.6582395839942508,160.72,0.3214
+8_CatBoost,CatBoost,logloss,0.6494899493299789,125.99,0.0276
+12_RandomForest,Random Forest,logloss,0.6359509914462014,60.25,0.3627
+5_Xgboost,Xgboost,logloss,0.6712645504982716,164.99,0.2525
+9_CatBoost,CatBoost,logloss,0.6349127331792211,166.71,0.0274
+13_RandomForest,Random Forest,logloss,0.6422829066217323,68.69,0.3536
+6_Xgboost,Xgboost,logloss,0.6472850208271699,166.43,0.2587
+10_CatBoost,CatBoost,logloss,0.647651608254767,185.62,0.0258
+14_RandomForest,Random Forest,logloss,0.649951029243878,66.32,0.3221
+7_Xgboost,Xgboost,logloss,0.6664936512596457,166.28,0.25
+11_CatBoost,CatBoost,logloss,0.6303747081245374,203.69,0.0444
+15_RandomForest,Random Forest,logloss,0.6482587157359248,77.21,0.5241
+16_CatBoost,CatBoost,logloss,0.6370182600976159,282.3,0.0269
+17_CatBoost,CatBoost,logloss,0.631446083487358,191.32,0.0262
+18_CatBoost,CatBoost,logloss,0.6404574583189424,177.53,0.0283
+19_RandomForest,Random Forest,logloss,0.6361811996627,76.72,0.4499
+20_RandomForest,Random Forest,logloss,0.6366149108507498,73.73,0.324
+21_Xgboost,Xgboost,logloss,0.6472850208271699,177.93,0.2558
+22_Xgboost,Xgboost,logloss,0.6472850208271699,179.73,0.3441
+23_Xgboost,Xgboost,logloss,0.6562638237623565,181.71,0.2473
+24_CatBoost,CatBoost,logloss,0.6361323452949391,208.37,0.0293
+26_RandomForest,Random Forest,logloss,0.6344933858130208,76.58,0.3688
+Ensemble,Ensemble,logloss,0.6210456195398513,0.35,0.4107

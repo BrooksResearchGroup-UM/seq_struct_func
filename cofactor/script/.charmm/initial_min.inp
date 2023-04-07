@@ -1,0 +1,34 @@
+*Vacuum minimize initial protein structure
+*
+
+!read topology
+read rtf card name @toppardir/top_all36_prot.rtf
+read param card name @toppardir/par_all36m_prot.prm flex
+
+!read protein sequence and generate psf
+read sequence pdb name @modeldir/@protein_conv.pdb
+generate PROA setup start ACE last CT3 
+read coor pdb name @modeldir/@protein_conv.pdb resid
+IC PARAM
+IC BUILD
+
+write psf card name @modeldir/@protein.psf 
+
+
+!nbonds
+nbonds elec atom cdie eps 1 fswitch vdw vatom vfswitch cutnb 10 ctofnb 8 ctonnb 7
+
+!impose restraints on heavy atoms
+cons harm force 50 mass sele segid PROA .and. .not. type H* end
+
+!minimize with steepest descent 
+mini sd nstep 1000 tolenr .001 tolgrd .0001
+
+cons harm clear
+
+energy
+
+write coor pdb name @modeldir/@protein.pdb
+
+
+stop

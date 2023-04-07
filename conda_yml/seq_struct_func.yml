@@ -1,0 +1,23 @@
+name: seq_struct_func
+channels:
+ - conda-forge
+ - defaults
+ - anaconda
+dependencies:
+ - jupyterlab
+ - scikit-learn
+ - statsmodels
+ - openbabel
+ - h5py
+ - tensorflow
+ - mljar-supervised
+ - pandas
+ - numpy 
+ - statsmodels
+ - seaborn
+ - matplotlib
+ - pip
+ - ipython
+ - plotly
+ - nglview
+ - hhsuite

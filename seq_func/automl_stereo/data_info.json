@@ -1,0 +1,639 @@
+{
+    "columns": [
+        "22I",
+        "50I",
+        "51G",
+        "52A",
+        "53G",
+        "54M",
+        "55A",
+        "56F",
+        "57T",
+        "58A",
+        "59N",
+        "61V",
+        "62R",
+        "75L",
+        "76R",
+        "78S",
+        "79G",
+        "80A",
+        "81V",
+        "82P",
+        "94D",
+        "95Y",
+        "96L",
+        "97R",
+        "98W",
+        "99V",
+        "100D",
+        "107K",
+        "108R",
+        "109L",
+        "110Y",
+        "111Q",
+        "112L",
+        "115G",
+        "117R",
+        "118G",
+        "119F",
+        "120E",
+        "121A",
+        "122C",
+        "123R",
+        "124R",
+        "127F",
+        "202K",
+        "203F",
+        "204A",
+        "205F",
+        "206R",
+        "207G",
+        "208L",
+        "211M",
+        "223A",
+        "224R",
+        "225T",
+        "226L",
+        "227N",
+        "228M",
+        "229H",
+        "230V",
+        "231G",
+        "233N",
+        "234A",
+        "235H",
+        "236L",
+        "237I",
+        "238H",
+        "239Y",
+        "240P",
+        "241V",
+        "244E",
+        "246M",
+        "247V",
+        "248N",
+        "249I",
+        "250A",
+        "251A",
+        "252F",
+        "253V",
+        "254S",
+        "278F",
+        "281W",
+        "292M",
+        "296I",
+        "297D",
+        "299W",
+        "301M",
+        "327A",
+        "328V",
+        "329P",
+        "330H",
+        "331H",
+        "332G",
+        "333A",
+        "334G",
+        "335A",
+        "336C",
+        "337I",
+        "385W",
+        "386F",
+        "389S",
+        "390S",
+        "391R",
+        "392R",
+        "393V",
+        "394C",
+        "395D",
+        "396L",
+        "397Y",
+        "401E",
+        "402W",
+        "414C",
+        "415F",
+        "416E",
+        "417E",
+        "418I",
+        "419K",
+        "420D",
+        "421R",
+        "422S",
+        "423H",
+        "424K",
+        "425I",
+        "426W",
+        "427H",
+        "428F"
+    ],
+    "rows": 830,
+    "cols": 125,
+    "target_is_numeric": true,
+    "columns_info": {
+        "22I": [
+            "categorical",
+            "few_categories"
+        ],
+        "50I": [
+            "categorical",
+            "few_categories"
+        ],
+        "51G": [
+            "categorical",
+            "few_categories"
+        ],
+        "52A": [
+            "categorical",
+            "few_categories"
+        ],
+        "53G": [
+            "categorical",
+            "few_categories"
+        ],
+        "54M": [
+            "categorical",
+            "few_categories"
+        ],
+        "55A": [
+            "categorical",
+            "few_categories"
+        ],
+        "56F": [
+            "categorical",
+            "few_categories"
+        ],
+        "57T": [
+            "categorical",
+            "few_categories"
+        ],
+        "58A": [
+            "categorical",
+            "few_categories"
+        ],
+        "59N": [
+            "categorical",
+            "few_categories"
+        ],
+        "61V": [
+            "categorical",
+            "few_categories"
+        ],
+        "62R": [
+            "categorical",
+            "few_categories"
+        ],
+        "75L": [
+            "categorical",
+            "few_categories"
+        ],
+        "76R": [
+            "categorical",
+            "few_categories"
+        ],
+        "78S": [
+            "categorical",
+            "few_categories"
+        ],
+        "79G": [
+            "categorical",
+            "few_categories"
+        ],
+        "80A": [
+            "categorical",
+            "few_categories"
+        ],
+        "81V": [
+            "categorical",
+            "few_categories"
+        ],
+        "82P": [
+            "categorical",
+            "few_categories"
+        ],
+        "94D": [
+            "categorical",
+            "few_categories"
+        ],
+        "95Y": [
+            "categorical",
+            "few_categories"
+        ],
+        "96L": [
+            "categorical",
+            "few_categories"
+        ],
+        "97R": [
+            "categorical",
+            "few_categories"
+        ],
+        "98W": [
+            "categorical",
+            "few_categories"
+        ],
+        "99V": [
+            "categorical",
+            "few_categories"
+        ],
+        "100D": [
+            "categorical",
+            "few_categories"
+        ],
+        "107K": [
+            "categorical",
+            "few_categories"
+        ],
+        "108R": [
+            "categorical",
+            "few_categories"
+        ],
+        "109L": [
+            "categorical",
+            "few_categories"
+        ],
+        "110Y": [
+            "categorical",
+            "few_categories"
+        ],
+        "111Q": [
+            "categorical",
+            "few_categories"
+        ],
+        "112L": [
+            "categorical",
+            "few_categories"
+        ],
+        "115G": [
+            "categorical",
+            "few_categories"
+        ],
+        "117R": [
+            "categorical",
+            "few_categories"
+        ],
+        "118G": [
+            "categorical",
+            "few_categories"
+        ],
+        "119F": [
+            "categorical",
+            "few_categories"
+        ],
+        "120E": [
+            "categorical",
+            "few_categories"
+        ],
+        "121A": [
+            "categorical",
+            "few_categories"
+        ],
+        "122C": [
+            "categorical",
+            "few_categories"
+        ],
+        "123R": [
+            "categorical",
+            "few_categories"
+        ],
+        "124R": [
+            "categorical",
+            "few_categories"
+        ],
+        "127F": [
+            "categorical",
+            "few_categories"
+        ],
+        "202K": [
+            "categorical",
+            "few_categories"
+        ],
+        "203F": [
+            "categorical",
+            "few_categories"
+        ],
+        "204A": [
+            "categorical",
+            "few_categories"
+        ],
+        "205F": [
+            "categorical",
+            "few_categories"
+        ],
+        "206R": [
+            "categorical",
+            "few_categories"
+        ],
+        "207G": [
+            "categorical",
+            "few_categories"
+        ],
+        "208L": [
+            "categorical",
+            "few_categories"
+        ],
+        "211M": [
+            "categorical",
+            "few_categories"
+        ],
+        "223A": [
+            "categorical",
+            "few_categories"
+        ],
+        "224R": [
+            "categorical",
+            "few_categories"
+        ],
+        "225T": [
+            "categorical",
+            "few_categories"
+        ],
+        "226L": [
+            "categorical",
+            "few_categories"
+        ],
+        "227N": [
+            "categorical",
+            "few_categories"
+        ],
+        "228M": [
+            "categorical",
+            "few_categories"
+        ],
+        "229H": [
+            "categorical",
+            "few_categories"
+        ],
+        "230V": [
+            "categorical",
+            "few_categories"
+        ],
+        "231G": [
+            "categorical",
+            "few_categories"
+        ],
+        "233N": [
+            "categorical",
+            "few_categories"
+        ],
+        "234A": [
+            "categorical",
+            "few_categories"
+        ],
+        "235H": [
+            "categorical",
+            "few_categories"
+        ],
+        "236L": [
+            "categorical",
+            "few_categories"
+        ],
+        "237I": [
+            "categorical",
+            "few_categories"
+        ],
+        "238H": [
+            "categorical",
+            "few_categories"
+        ],
+        "239Y": [
+            "categorical",
+            "few_categories"
+        ],
+        "240P": [
+            "categorical",
+            "few_categories"
+        ],
+        "241V": [
+            "categorical",
+            "few_categories"
+        ],
+        "244E": [
+            "categorical",
+            "few_categories"
+        ],
+        "246M": [
+            "categorical",
+            "few_categories"
+        ],
+        "247V": [
+            "categorical",
+            "few_categories"
+        ],
+        "248N": [
+            "categorical",
+            "few_categories"
+        ],
+        "249I": [
+            "categorical",
+            "few_categories"
+        ],
+        "250A": [
+            "categorical",
+            "few_categories"
+        ],
+        "251A": [
+            "categorical",
+            "few_categories"
+        ],
+        "252F": [
+            "categorical",
+            "few_categories"
+        ],
+        "253V": [
+            "categorical",
+            "few_categories"
+        ],
+        "254S": [
+            "categorical",
+            "few_categories"
+        ],
+        "278F": [
+            "categorical",
+            "few_categories"
+        ],
+        "281W": [
+            "categorical",
+            "few_categories"
+        ],
+        "292M": [
+            "categorical",
+            "few_categories"
+        ],
+        "296I": [
+            "categorical",
+            "few_categories"
+        ],
+        "297D": [
+            "categorical",
+            "few_categories"
+        ],
+        "299W": [
+            "categorical",
+            "few_categories"
+        ],
+        "301M": [
+            "categorical",
+            "few_categories"
+        ],
+        "327A": [
+            "categorical",
+            "few_categories"
+        ],
+        "328V": [
+            "categorical",
+            "few_categories"
+        ],
+        "329P": [
+            "categorical",
+            "few_categories"
+        ],
+        "330H": [
+            "categorical",
+            "few_categories"
+        ],
+        "331H": [
+            "categorical",
+            "few_categories"
+        ],
+        "332G": [
+            "categorical",
+            "few_categories"
+        ],
+        "333A": [
+            "categorical",
+            "few_categories"
+        ],
+        "334G": [
+            "categorical",
+            "few_categories"
+        ],
+        "335A": [
+            "categorical",
+            "few_categories"
+        ],
+        "336C": [
+            "categorical",
+            "few_categories"
+        ],
+        "337I": [
+            "categorical",
+            "few_categories"
+        ],
+        "385W": [
+            "categorical",
+            "few_categories"
+        ],
+        "386F": [
+            "categorical",
+            "few_categories"
+        ],
+        "389S": [
+            "categorical",
+            "few_categories"
+        ],
+        "390S": [
+            "categorical",
+            "few_categories"
+        ],
+        "391R": [
+            "categorical",
+            "few_categories"
+        ],
+        "392R": [
+            "categorical",
+            "few_categories"
+        ],
+        "393V": [
+            "categorical",
+            "few_categories"
+        ],
+        "394C": [
+            "categorical",
+            "few_categories"
+        ],
+        "395D": [
+            "categorical",
+            "few_categories"
+        ],
+        "396L": [
+            "categorical",
+            "few_categories"
+        ],
+        "397Y": [
+            "categorical",
+            "few_categories"
+        ],
+        "401E": [
+            "categorical",
+            "few_categories"
+        ],
+        "402W": [
+            "categorical",
+            "few_categories"
+        ],
+        "414C": [
+            "categorical",
+            "few_categories"
+        ],
+        "415F": [
+            "categorical",
+            "few_categories"
+        ],
+        "416E": [
+            "categorical",
+            "few_categories"
+        ],
+        "417E": [
+            "categorical",
+            "few_categories"
+        ],
+        "418I": [
+            "categorical",
+            "few_categories"
+        ],
+        "419K": [
+            "categorical",
+            "few_categories"
+        ],
+        "420D": [
+            "categorical",
+            "few_categories"
+        ],
+        "421R": [
+            "categorical",
+            "few_categories"
+        ],
+        "422S": [
+            "categorical",
+            "few_categories"
+        ],
+        "423H": [
+            "categorical",
+            "few_categories"
+        ],
+        "424K": [
+            "categorical",
+            "few_categories"
+        ],
+        "425I": [
+            "categorical",
+            "few_categories"
+        ],
+        "426W": [
+            "categorical",
+            "few_categories"
+        ],
+        "427H": [
+            "categorical",
+            "few_categories"
+        ],
+        "428F": [
+            "categorical",
+            "few_categories"
+        ]
+    },
+    "target_info": [],
+    "n_features": 125,
+    "is_sample_weighted": false,
+    "n_classes": 3,
+    "num_class": 3
+}

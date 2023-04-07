@@ -1,0 +1,8 @@
+gen_git_ignore.ipynb
+pred/script/pafnucy/results/
+si_data/script/
+consensus/consensus_af2_results/features.pkl
+consensus/consensus_af2_results/result_model_1.pkl
+consensus/consensus_af2_results/msas/uniref90_hits.sto
+model/models/tropb/msa/msa_jackhmmer.sto
+pred/script/pafnucy/results/batch5-2017-06-05T07:58:47-best.data-00000-of-00001

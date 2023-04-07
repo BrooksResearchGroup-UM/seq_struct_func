@@ -1,0 +1,8 @@
+* This file contains the van der Waals radiis of probe atoms used in generating
+* protein grids. The set of values here is based on the c36prot_cgenff force field.
+* The format presented here has to be strictly followed when users make their own files.
+*  - Lines starting with * are ignored.
+*  - radii needs to immediately follow the last comment line.
+*  - Comment lines have to be at the beginnning.
+*  - No empty lines.
+1.700
