@@ -2,7 +2,7 @@
 
 - Collection of jupyter notebook scripts demonstrating various aspects of pipeline.
 - Conda enviornments required to run pipeline and jupyter notebooks are located in conda_yml.
-    - seq_struct_func.yml for steps 1,5,6
+    - seq_struct_func.yml for steps 1,5-7
     - alphafold2.yml for step 2
     - steps 3 and 4 require an environment with pyCHARMM and MMTSB to be installed     
         - https://academiccharmm.org/documentation/latest/pycharmm
@@ -55,8 +55,16 @@
     - Predict reactivity from pose features
 - script/vis_pred.ipynb
     - Visuallize predicted poses 
+    
+### Step 6: (msa/)      Generate Multiple Sequence Alignment Localized to Binding Site 
+- script/gen_msa.ipynb
+    - Generate Multiple Sequence Alignment
+- script/get_bs_ss_residues.ipynb
+    - Get set of binding site and second shell residues
+- script/vis_pred.ipynb
+    - Modify MSA to be limited to binding site and second shell residues
 
-### Step 6: (seq_func/)   Training Sequence-Function Model and SHAP Analysis
+### Step 7: (seq_func/)   Training Sequence-Function Model and SHAP Analysis
 - script/run_automl.ipynb
     - Fit multiple sequence alignment to predicted stereochemistry labels with gradient boosted trees and random forest models
 - script/shap_analysis.ipynb

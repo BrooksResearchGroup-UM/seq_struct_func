@@ -1,0 +1,27 @@
+REMARK  MINIMIZE FFTDOCK CONFOMERS IN EXPLICIT PROTEIN                                
+REMARK   DATE:     5/ 9/22     20:30:17      CREATED BY USER: azamh                   
+ATOM      1  C1  LIG     1      56.531  47.216  44.270  1.00  0.00      LIGA
+ATOM      2  C2  LIG     1      56.559  45.967  44.893  1.00  0.00      LIGA
+ATOM      3  C3  LIG     1      56.549  48.359  45.063  1.00  0.00      LIGA
+ATOM      4  C4  LIG     1      56.685  45.826  46.294  1.00  0.00      LIGA
+ATOM      5  C5  LIG     1      56.353  47.322  42.784  1.00  0.00      LIGA
+ATOM      6  H1  LIG     1      55.272  47.415  42.588  1.00  0.00      LIGA
+ATOM      7  H2  LIG     1      56.799  46.462  42.258  1.00  0.00      LIGA
+ATOM      8  H3  LIG     1      56.854  48.180  42.348  1.00  0.00      LIGA
+ATOM      9  O1  LIG     1      56.232  44.917  44.041  1.00  0.00      LIGA
+ATOM     10  H4  LIG     1      55.741  45.347  43.325  1.00  0.00      LIGA
+ATOM     11  O2  LIG     1      56.249  49.481  44.575  1.00  0.00      LIGA
+ATOM     12  C6  LIG     1      56.965  46.997  47.044  1.00  0.00      LIGA
+ATOM     13  C7  LIG     1      57.571  46.885  48.403  1.00  0.00      LIGA
+ATOM     14  O3  LIG     1      57.640  45.820  49.013  1.00  0.00      LIGA
+ATOM     15  C8  LIG     1      58.256  48.090  48.960  1.00  0.00      LIGA
+ATOM     16  H5  LIG     1      59.002  48.468  48.251  1.00  0.00      LIGA
+ATOM     17  H6  LIG     1      58.763  47.816  49.907  1.00  0.00      LIGA
+ATOM     18  H7  LIG     1      57.520  48.899  49.129  1.00  0.00      LIGA
+ATOM     19  C9  LIG     1      56.551  44.487  46.964  1.00  0.00      LIGA
+ATOM     20  O4  LIG     1      56.463  43.378  46.471  1.00  0.00      LIGA
+ATOM     21  H8  LIG     1      56.503  44.537  48.069  1.00  0.00      LIGA
+ATOM     22  C10 LIG     1      56.821  48.262  46.415  1.00  0.00      LIGA
+ATOM     23  H9  LIG     1      56.879  49.179  46.957  1.00  0.00      LIGA
+TER    6721      LIG      1
+END

@@ -1,0 +1,37 @@
+REMARK  MINIMIZE FFTDOCK CONFOMERS IN EXPLICIT PROTEIN                                
+REMARK   DATE:     5/25/22     23:37:41      CREATED BY USER: azamh                   
+ATOM      1  O1  LIG     1      57.376  44.188  48.364  1.00  0.00      LIGA
+ATOM      2  C1  LIG     1      57.073  45.373  48.274  1.00  0.00      LIGA
+ATOM      3  C2  LIG     1      57.759  46.396  49.118  1.00  0.00      LIGA
+ATOM      4  C3  LIG     1      58.280  47.726  48.507  1.00  0.00      LIGA
+ATOM      5  O2  LIG     1      57.311  48.737  48.596  1.00  0.00      LIGA
+ATOM      6  C4  LIG     1      59.501  48.242  49.268  1.00  0.00      LIGA
+ATOM      7  C5  LIG     1      55.942  45.777  47.396  1.00  0.00      LIGA
+ATOM      8  C6  LIG     1      56.369  46.116  46.051  1.00  0.00      LIGA
+ATOM      9  C7  LIG     1      56.347  45.102  45.096  1.00  0.00      LIGA
+ATOM     10  C8  LIG     1      56.311  43.662  45.519  1.00  0.00      LIGA
+ATOM     11  O3  LIG     1      56.480  42.671  44.835  1.00  0.00      LIGA
+ATOM     12  C9  LIG     1      56.162  45.496  43.781  1.00  0.00      LIGA
+ATOM     13  O4  LIG     1      55.338  44.652  43.053  1.00  0.00      LIGA
+ATOM     14  C10 LIG     1      56.356  46.810  43.327  1.00  0.00      LIGA
+ATOM     15  C11 LIG     1      56.556  47.090  41.834  1.00  0.00      LIGA
+ATOM     16  C12 LIG     1      56.443  47.785  44.340  1.00  0.00      LIGA
+ATOM     17  O5  LIG     1      56.433  49.022  44.165  1.00  0.00      LIGA
+ATOM     18  C13 LIG     1      56.395  47.458  45.670  1.00  0.00      LIGA
+ATOM     19  H1  LIG     1      58.610  45.857  49.577  1.00  0.00      LIGA
+ATOM     20  H2  LIG     1      57.062  46.618  49.927  1.00  0.00      LIGA
+ATOM     21  H3  LIG     1      58.518  47.657  47.431  1.00  0.00      LIGA
+ATOM     22  H4  LIG     1      56.458  48.294  48.815  1.00  0.00      LIGA
+ATOM     23  H5  LIG     1      59.421  47.983  50.341  1.00  0.00      LIGA
+ATOM     24  H6  LIG     1      59.579  49.347  49.212  1.00  0.00      LIGA
+ATOM     25  H7  LIG     1      60.443  47.826  48.862  1.00  0.00      LIGA
+ATOM     26  H8  LIG     1      55.381  46.632  47.762  1.00  0.00      LIGA
+ATOM     27  H9  LIG     1      55.233  44.938  47.305  1.00  0.00      LIGA
+ATOM     28  H10 LIG     1      56.133  43.482  46.599  1.00  0.00      LIGA
+ATOM     29  H11 LIG     1      54.935  45.194  42.328  1.00  0.00      LIGA
+ATOM     30  H12 LIG     1      56.920  46.181  41.312  1.00  0.00      LIGA
+ATOM     31  H13 LIG     1      57.304  47.883  41.679  1.00  0.00      LIGA
+ATOM     32  H14 LIG     1      55.612  47.393  41.353  1.00  0.00      LIGA
+ATOM     33  H15 LIG     1      56.353  48.275  46.366  1.00  0.00      LIGA
+TER    6657      LIG      1
+END
