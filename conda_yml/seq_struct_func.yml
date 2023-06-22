@@ -3,6 +3,7 @@ channels:
  - conda-forge
  - defaults
  - anaconda
+ - bioconda
 dependencies:
  - jupyterlab
  - scikit-learn
