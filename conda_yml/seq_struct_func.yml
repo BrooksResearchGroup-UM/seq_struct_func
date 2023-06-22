@@ -21,4 +21,5 @@ dependencies:
  - ipython
  - plotly
  - nglview
+ - biopython
  - hhsuite
