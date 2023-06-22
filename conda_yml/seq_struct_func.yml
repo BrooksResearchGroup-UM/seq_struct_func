@@ -1,10 +1,9 @@
 name: seq_struct_func
 channels:
  - conda-forge
- - defaults
- - anaconda
  - bioconda
 dependencies:
+ - python
  - jupyterlab
  - scikit-learn
  - statsmodels
@@ -14,7 +13,6 @@ dependencies:
  - mljar-supervised
  - pandas
  - numpy 
- - statsmodels
  - seaborn
  - matplotlib
  - pip
