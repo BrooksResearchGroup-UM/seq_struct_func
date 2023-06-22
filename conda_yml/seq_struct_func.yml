@@ -23,5 +23,4 @@ dependencies:
  - nglview
  - biopython
  - hhsuite
-  - pip:
-      - tqdm
+ - tqdm
