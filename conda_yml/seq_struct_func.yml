@@ -1,3 +1,10 @@
+# Can use commands:
+# conda env -n seq_struct_func
+# conda activate seq_struct_func
+# mamba install -c conda-forge python jupyterlab scikit-learn statsmodels openbabel h5py tensorflow mljar-supervised pandas numpy==1.19.5 seaborn matplotlib pip ipython plotly nglview biopython tqdm
+# mamba install -c bioconda hhsuite
+# pip install openpyxl
+# or: mamba env create -f seq_struct_func.yml
 name: seq_struct_func
 channels:
  - conda-forge
