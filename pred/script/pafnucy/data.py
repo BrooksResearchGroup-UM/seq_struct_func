@@ -306,8 +306,8 @@ class Featurizer():
                     [func(atom) for func in self.CALLABLES],
                 )))
 
-        coords = np.array(coords, dtype=np.float32)
-        features = np.array(features, dtype=np.float32)
+        coords = np.array(coords, dtype=float)
+        features = np.array(features, dtype=float)
         if self.save_molecule_codes:
             features = np.hstack((features,
                                   molcode * np.ones((len(features), 1))))
@@ -364,7 +364,7 @@ def rotation_matrix(axis, theta):
     if not isinstance(axis, (np.ndarray, list, tuple)):
         raise TypeError('axis must be an array of floats of shape (3,)')
     try:
-        axis = np.asarray(axis, dtype=np.float)
+        axis = np.asarray(axis, dtype=float)
     except ValueError:
         raise ValueError('axis must be an array of floats of shape (3,)')
 
@@ -437,7 +437,7 @@ def rotate(coords, rotation):
     if not isinstance(coords, (np.ndarray, list, tuple)):
         raise TypeError('coords must be an array of floats of shape (N, 3)')
     try:
-        coords = np.asarray(coords, dtype=np.float)
+        coords = np.asarray(coords, dtype=float)
     except ValueError:
         raise ValueError('coords must be an array of floats of shape (N, 3)')
     shape = coords.shape
@@ -481,7 +481,7 @@ def make_grid(coords, features, grid_resolution=1.0, max_dist=10.0):
     """
 
     try:
-        coords = np.asarray(coords, dtype=np.float)
+        coords = np.asarray(coords, dtype=float)
     except ValueError:
         raise ValueError('coords must be an array of floats of shape (N, 3)')
     c_shape = coords.shape
@@ -490,7 +490,7 @@ def make_grid(coords, features, grid_resolution=1.0, max_dist=10.0):
 
     N = len(coords)
     try:
-        features = np.asarray(features, dtype=np.float)
+        features = np.asarray(features, dtype=float)
     except ValueError:
         raise ValueError('features must be an array of floats of shape (N, F)')
     f_shape = features.shape
@@ -520,7 +520,7 @@ def make_grid(coords, features, grid_resolution=1.0, max_dist=10.0):
     # remove atoms outside the box
     in_box = ((grid_coords >= 0) & (grid_coords < box_size)).all(axis=1)
     grid = np.zeros((1, box_size, box_size, box_size, num_features),
-                    dtype=np.float32)
+                    dtype=float)
     for (x, y, z), f in zip(grid_coords[in_box], features[in_box]):
         grid[0, x, y, z] += f
 

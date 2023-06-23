@@ -12,7 +12,7 @@ dependencies:
  - tensorflow
  - mljar-supervised
  - pandas
- - numpy 
+ - numpy==1.19.5
  - seaborn
  - matplotlib
  - pip
@@ -22,3 +22,6 @@ dependencies:
  - biopython
  - hhsuite
  - tqdm
+ - pip 
+ - pip:
+   - openpyxl

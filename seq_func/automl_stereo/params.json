@@ -1,7 +1,7 @@
 {
     "mode": "Perform",
     "ml_task": "multiclass_classification",
-    "results_path": "automl_stereo",
+    "results_path": "../automl_stereo",
     "total_time_limit": 3600,
     "model_time_limit": null,
     "algorithms": [
@@ -17,9 +17,9 @@
         "k_folds": 5,
         "shuffle": true,
         "stratify": true,
-        "X_path": "automl_stereo/X.data",
-        "y_path": "automl_stereo/y.data",
-        "results_path": "automl_stereo"
+        "X_path": "../automl_stereo/X.data",
+        "y_path": "../automl_stereo/y.data",
+        "results_path": "../automl_stereo"
     },
     "verbose": 1,
     "explain_level": 2,
@@ -58,8 +58,9 @@
         "21_Xgboost",
         "22_Xgboost",
         "23_Xgboost",
-        "24_CatBoost",
-        "26_RandomForest",
+        "24_Xgboost",
+        "25_CatBoost",
+        "26_CatBoost",
         "Ensemble"
     ],
     "fit_level": "finished",
@@ -67,7 +68,8 @@
     "load_on_predict": [
         "11_CatBoost",
         "17_CatBoost",
-        "26_RandomForest",
+        "25_CatBoost",
+        "26_CatBoost",
         "9_CatBoost",
         "Ensemble"
     ]

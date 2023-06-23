@@ -4,12 +4,13 @@
 - Conda enviornments required to run pipeline and jupyter notebooks are located in conda_yml.
     - seq_struct_func.yml for steps 1,5-7
     - alphafold2.yml for step 2
-    - steps 3 and 4 require an environment with pyCHARMM and MMTSB to be installed     
+    - build environnments with `conda env build -f X.yml`
+    - steps 3 and 4 require pyCHARMM and MMTSB to be installed in seq_struc_func     
         - https://academiccharmm.org/documentation/latest/pycharmm
         - https://chemrxiv.org/engage/chemrxiv/article-details/63c6b40230e3e5222e937adc 
         - https://github.com/BrooksResearchGroup-UM/pyCHARMM-Workshop
         - http://feig.bch.msu.edu/mmtsb/Main_Page
-- Recommended resources: 1 GPU and 1-4 CPUs
+- Recommended resources: 1 GPU with 10 GB memory and 1-4 CPUs
 - Scripts are listed in the order they should be run.
 
 ### Data: (si_data/)     Data necessary for running examples 

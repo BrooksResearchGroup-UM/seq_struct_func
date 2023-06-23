@@ -3,6 +3,7 @@ channels:
   - bioconda
   - conda-forge
   - defaults
+  - nvidia/label/cuda-12.0.0
 dependencies:
   - _libgcc_mutex=0.1=main
   - _openmp_mutex=4.5=1_gnu
@@ -77,6 +78,7 @@ dependencies:
   - yaml=0.2.5=h7b6447c_0
   - zlib=1.2.11=h7b6447c_3
   - jupyterlab
+  - cuda
   - pip:
     - absl-py==0.13.0
     - astunparse==1.6.3

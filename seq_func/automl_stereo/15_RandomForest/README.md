@@ -24,7 +24,7 @@ logloss
 
 ## Training time
 
-75.9 seconds
+134.8 seconds
 
 ### Metric details
 |           |         -1 |           0 |          1 |   accuracy |   macro avg |   weighted avg |   logloss |

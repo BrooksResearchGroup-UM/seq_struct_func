@@ -1,5 +1,5 @@
 {
-    "uid": "30c8d531-d573-4f9c-b248-5afd65560f7b",
+    "uid": "9a6489f9-21b1-45ae-acd4-620b79382c7b",
     "name": "4_Xgboost",
     "preprocessing": [
         {
@@ -10675,10 +10675,10 @@
     ],
     "learners": [
         {
-            "library_version": "1.7.1",
+            "library_version": "1.7.4",
             "algorithm_name": "Extreme Gradient Boosting",
             "algorithm_short_name": "Xgboost",
-            "uid": "63d57a0e-dcce-425c-b40b-7c02c5a3e233",
+            "uid": "dedb7c95-cb95-4466-abfd-4d2e37218f4c",
             "params": {
                 "model_type": "Xgboost",
                 "ml_task": "multiclass_classification",
@@ -10698,10 +10698,10 @@
             "best_ntree_limit": 35
         },
         {
-            "library_version": "1.7.1",
+            "library_version": "1.7.4",
             "algorithm_name": "Extreme Gradient Boosting",
             "algorithm_short_name": "Xgboost",
-            "uid": "7604c33d-eb36-48e2-b42e-506b6f292f2d",
+            "uid": "140bd0bb-bc75-479d-a92e-c1a82a0b65e3",
             "params": {
                 "model_type": "Xgboost",
                 "ml_task": "multiclass_classification",
@@ -10721,10 +10721,10 @@
             "best_ntree_limit": 43
         },
         {
-            "library_version": "1.7.1",
+            "library_version": "1.7.4",
             "algorithm_name": "Extreme Gradient Boosting",
             "algorithm_short_name": "Xgboost",
-            "uid": "00ca78f9-229d-467f-9564-01bb41b7b6a8",
+            "uid": "bbf8148a-7de2-4f27-ad10-eca6e1da678d",
             "params": {
                 "model_type": "Xgboost",
                 "ml_task": "multiclass_classification",
@@ -10744,10 +10744,10 @@
             "best_ntree_limit": 43
         },
         {
-            "library_version": "1.7.1",
+            "library_version": "1.7.4",
             "algorithm_name": "Extreme Gradient Boosting",
             "algorithm_short_name": "Xgboost",
-            "uid": "5e585dfe-0126-418e-9258-4ffffb9968ee",
+            "uid": "ebabf153-693c-4477-889f-c2ba40707110",
             "params": {
                 "model_type": "Xgboost",
                 "ml_task": "multiclass_classification",
@@ -10767,10 +10767,10 @@
             "best_ntree_limit": 64
         },
         {
-            "library_version": "1.7.1",
+            "library_version": "1.7.4",
             "algorithm_name": "Extreme Gradient Boosting",
             "algorithm_short_name": "Xgboost",
-            "uid": "20ad9e98-0847-4f8d-b94a-0f3597122290",
+            "uid": "36d11f4e-4401-4d98-bfe5-b3abe096dc95",
             "params": {
                 "model_type": "Xgboost",
                 "ml_task": "multiclass_classification",
@@ -11186,9 +11186,9 @@
             "k_folds": 5,
             "shuffle": true,
             "stratify": true,
-            "X_path": "automl_stereo/X.data",
-            "y_path": "automl_stereo/y.data",
-            "results_path": "automl_stereo"
+            "X_path": "../automl_stereo/X.data",
+            "y_path": "../automl_stereo/y.data",
+            "results_path": "../automl_stereo"
         },
         "learner": {
             "model_type": "Xgboost",
@@ -11225,7 +11225,7 @@
     "predictions_fname": "4_Xgboost/predictions_out_of_folds.csv",
     "metric_name": "logloss",
     "final_loss": 0.6582395839942508,
-    "train_time": 159.6537094116211,
+    "train_time": 140.7939350605011,
     "is_stacked": false,
-    "single_prediction_time": 0.32138776779174805
+    "single_prediction_time": 0.45115089416503906
 }

@@ -1,5 +1,5 @@
 {
-    "uid": "479e3310-eb95-40c0-8f6c-632e3e78d675",
+    "uid": "c56075cc-3340-46ab-808e-f9ad53b49395",
     "name": "14_RandomForest",
     "preprocessing": [
         {
@@ -10675,10 +10675,10 @@
     ],
     "learners": [
         {
-            "library_version": "1.1.3",
+            "library_version": "1.1.2",
             "algorithm_name": "Random Forest",
             "algorithm_short_name": "Random Forest",
-            "uid": "91ddd7c2-8cb7-4ec3-b982-08475fe73149",
+            "uid": "b3f8587a-1c3e-469f-a2e4-a1288abdb458",
             "params": {
                 "model_type": "Random Forest",
                 "ml_task": "multiclass_classification",
@@ -10695,10 +10695,10 @@
             "name": "learner_fold_0"
         },
         {
-            "library_version": "1.1.3",
+            "library_version": "1.1.2",
             "algorithm_name": "Random Forest",
             "algorithm_short_name": "Random Forest",
-            "uid": "81a91bc4-458a-4bf4-9d6b-58476d79c053",
+            "uid": "58a6fd68-6b0a-469f-9954-80dd20715eb7",
             "params": {
                 "model_type": "Random Forest",
                 "ml_task": "multiclass_classification",
@@ -10715,10 +10715,10 @@
             "name": "learner_fold_1"
         },
         {
-            "library_version": "1.1.3",
+            "library_version": "1.1.2",
             "algorithm_name": "Random Forest",
             "algorithm_short_name": "Random Forest",
-            "uid": "97c0bd2f-b76a-4960-8ae3-c796694bd5a9",
+            "uid": "d8a4c0f8-b171-4be8-8573-dbdc232141b9",
             "params": {
                 "model_type": "Random Forest",
                 "ml_task": "multiclass_classification",
@@ -10735,10 +10735,10 @@
             "name": "learner_fold_2"
         },
         {
-            "library_version": "1.1.3",
+            "library_version": "1.1.2",
             "algorithm_name": "Random Forest",
             "algorithm_short_name": "Random Forest",
-            "uid": "fc902598-3be7-42cd-8f80-d8565ca1d7e6",
+            "uid": "3779f497-dfa9-4d2b-83d2-93bc649f3c27",
             "params": {
                 "model_type": "Random Forest",
                 "ml_task": "multiclass_classification",
@@ -10755,10 +10755,10 @@
             "name": "learner_fold_3"
         },
         {
-            "library_version": "1.1.3",
+            "library_version": "1.1.2",
             "algorithm_name": "Random Forest",
             "algorithm_short_name": "Random Forest",
-            "uid": "95603bfa-68d1-4178-9218-0ebec4ae63ed",
+            "uid": "75c0dc74-44d8-4f6c-8feb-a9e6df74c733",
             "params": {
                 "model_type": "Random Forest",
                 "ml_task": "multiclass_classification",
@@ -11174,9 +11174,9 @@
             "k_folds": 5,
             "shuffle": true,
             "stratify": true,
-            "X_path": "automl_stereo/X.data",
-            "y_path": "automl_stereo/y.data",
-            "results_path": "automl_stereo"
+            "X_path": "../automl_stereo/X.data",
+            "y_path": "../automl_stereo/y.data",
+            "results_path": "../automl_stereo"
         },
         "learner": {
             "model_type": "Random Forest",
@@ -11211,7 +11211,7 @@
     "predictions_fname": "14_RandomForest/predictions_out_of_folds.csv",
     "metric_name": "logloss",
     "final_loss": 0.649951029243878,
-    "train_time": 65.07151532173157,
+    "train_time": 114.16279435157776,
     "is_stacked": false,
-    "single_prediction_time": 0.32211852073669434
+    "single_prediction_time": 0.5007996559143066
 }

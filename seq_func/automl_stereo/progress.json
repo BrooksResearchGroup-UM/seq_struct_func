@@ -23,163 +23,169 @@
                 "model_name": "prepare_data",
                 "model_type": "prepare_data",
                 "fit_level": "prepare_data",
-                "train_time": 0.32685208320617676
+                "train_time": 1.7586686611175537
             },
             {
                 "model_name": "1_Default_Xgboost",
                 "model_type": "Xgboost",
                 "fit_level": "default_algorithms",
-                "train_time": 164.63120889663696
+                "train_time": 144.13831281661987
             },
             {
                 "model_name": "2_Default_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "default_algorithms",
-                "train_time": 172.96343159675598
+                "train_time": 92.26433944702148
             },
             {
                 "model_name": "3_Default_RandomForest",
                 "model_type": "Random Forest",
                 "fit_level": "default_algorithms",
-                "train_time": 51.9062066078186
+                "train_time": 98.53070020675659
             },
             {
                 "model_name": "4_Xgboost",
                 "model_type": "Xgboost",
                 "fit_level": "not_so_random",
-                "train_time": 159.6537094116211
+                "train_time": 140.7939350605011
             },
             {
                 "model_name": "8_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "not_so_random",
-                "train_time": 125.12671375274658
+                "train_time": 38.702980279922485
             },
             {
                 "model_name": "12_RandomForest",
                 "model_type": "Random Forest",
                 "fit_level": "not_so_random",
-                "train_time": 59.12161469459534
+                "train_time": 107.69900274276733
             },
             {
                 "model_name": "5_Xgboost",
                 "model_type": "Xgboost",
                 "fit_level": "not_so_random",
-                "train_time": 163.95474863052368
+                "train_time": 147.37516117095947
             },
             {
                 "model_name": "9_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "not_so_random",
-                "train_time": 165.92645978927612
+                "train_time": 81.93478608131409
             },
             {
                 "model_name": "13_RandomForest",
                 "model_type": "Random Forest",
                 "fit_level": "not_so_random",
-                "train_time": 67.56758499145508
+                "train_time": 121.18963074684143
             },
             {
                 "model_name": "6_Xgboost",
                 "model_type": "Xgboost",
                 "fit_level": "not_so_random",
-                "train_time": 165.25237011909485
+                "train_time": 149.1129322052002
             },
             {
                 "model_name": "10_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "not_so_random",
-                "train_time": 184.56993794441223
+                "train_time": 119.13946342468262
             },
             {
                 "model_name": "14_RandomForest",
                 "model_type": "Random Forest",
                 "fit_level": "not_so_random",
-                "train_time": 65.07151532173157
+                "train_time": 114.16279435157776
             },
             {
                 "model_name": "7_Xgboost",
                 "model_type": "Xgboost",
                 "fit_level": "not_so_random",
-                "train_time": 165.04719138145447
+                "train_time": 139.53361320495605
             },
             {
                 "model_name": "11_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "not_so_random",
-                "train_time": 202.85489082336426
+                "train_time": 143.26558876037598
             },
             {
                 "model_name": "15_RandomForest",
                 "model_type": "Random Forest",
                 "fit_level": "not_so_random",
-                "train_time": 75.90609002113342
+                "train_time": 134.84012866020203
             },
             {
                 "model_name": "16_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "hill_climbing_1",
-                "train_time": 281.4993169307709
+                "train_time": 237.26941227912903
             },
             {
                 "model_name": "17_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "hill_climbing_1",
-                "train_time": 190.43804359436035
+                "train_time": 122.10703039169312
             },
             {
                 "model_name": "18_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "hill_climbing_1",
-                "train_time": 176.64520621299744
+                "train_time": 92.04426884651184
             },
             {
                 "model_name": "19_RandomForest",
                 "model_type": "Random Forest",
                 "fit_level": "hill_climbing_1",
-                "train_time": 75.64464116096497
+                "train_time": 132.14380812644958
             },
             {
                 "model_name": "20_RandomForest",
                 "model_type": "Random Forest",
                 "fit_level": "hill_climbing_1",
-                "train_time": 72.70335626602173
+                "train_time": 124.91214203834534
             },
             {
                 "model_name": "21_Xgboost",
                 "model_type": "Xgboost",
                 "fit_level": "hill_climbing_1",
-                "train_time": 176.89502358436584
+                "train_time": 160.8329107761383
             },
             {
                 "model_name": "22_Xgboost",
                 "model_type": "Xgboost",
                 "fit_level": "hill_climbing_1",
-                "train_time": 178.5838897228241
+                "train_time": 164.25176548957825
             },
             {
                 "model_name": "23_Xgboost",
                 "model_type": "Xgboost",
                 "fit_level": "hill_climbing_1",
-                "train_time": 180.47946000099182
+                "train_time": 166.68926167488098
             },
             {
-                "model_name": "24_CatBoost",
+                "model_name": "24_Xgboost",
+                "model_type": "Xgboost",
+                "fit_level": "hill_climbing_1",
+                "train_time": 169.77947568893433
+            },
+            {
+                "model_name": "25_CatBoost",
                 "model_type": "CatBoost",
                 "fit_level": "hill_climbing_2",
-                "train_time": 207.58772206306458
+                "train_time": 162.5641326904297
             },
             {
-                "model_name": "26_RandomForest",
-                "model_type": "Random Forest",
+                "model_name": "26_CatBoost",
+                "model_type": "CatBoost",
                 "fit_level": "hill_climbing_2",
-                "train_time": 75.55475783348083
+                "train_time": 184.56828451156616
             },
             {
                 "model_name": "Ensemble",
                 "model_type": "Ensemble",
                 "fit_level": "ensemble",
-                "train_time": 0.35466933250427246
+                "train_time": 1.3766086101531982
             }
         ],
         "is_hill_climbing": true,
@@ -583,9 +589,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -608,7 +614,7 @@
                 "name": "1_Default_Xgboost",
                 "status": "trained",
                 "final_loss": 0.6591145157297871,
-                "train_time": 165.87078523635864,
+                "train_time": 146.1602499485016,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -632,9 +638,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -654,8 +660,8 @@
                 "explain_level": 2,
                 "name": "2_Default_CatBoost",
                 "status": "trained",
-                "final_loss": 0.6396236109418858,
-                "train_time": 173.75810766220093,
+                "final_loss": 0.6396236109418859,
+                "train_time": 93.60769939422607,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -1058,9 +1064,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
@@ -1081,7 +1087,7 @@
                 "name": "3_Default_RandomForest",
                 "status": "trained",
                 "final_loss": 0.6367596836787832,
-                "train_time": 52.9715371131897,
+                "train_time": 100.41942858695984,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             }
@@ -1483,9 +1489,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -1508,7 +1514,7 @@
                 "name": "4_Xgboost",
                 "status": "trained",
                 "final_loss": 0.6582395839942508,
-                "train_time": 160.7167785167694,
+                "train_time": 142.7064609527588,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -1532,9 +1538,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -1555,7 +1561,7 @@
                 "name": "8_CatBoost",
                 "status": "trained",
                 "final_loss": 0.6494899493299789,
-                "train_time": 125.98782873153687,
+                "train_time": 40.07693433761597,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -1958,9 +1964,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
@@ -1980,8 +1986,8 @@
                 "explain_level": 2,
                 "name": "12_RandomForest",
                 "status": "trained",
-                "final_loss": 0.6359509914462014,
-                "train_time": 60.24615979194641,
+                "final_loss": 0.6359509914462015,
+                "train_time": 109.61238718032837,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -2381,9 +2387,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -2406,7 +2412,7 @@
                 "name": "5_Xgboost",
                 "status": "trained",
                 "final_loss": 0.6712645504982716,
-                "train_time": 164.99114775657654,
+                "train_time": 149.328941822052,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -2430,9 +2436,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -2453,7 +2459,7 @@
                 "name": "9_CatBoost",
                 "status": "trained",
                 "final_loss": 0.6349127331792211,
-                "train_time": 166.71300601959229,
+                "train_time": 83.31477284431458,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -2856,9 +2862,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
@@ -2879,7 +2885,7 @@
                 "name": "13_RandomForest",
                 "status": "trained",
                 "final_loss": 0.6422829066217323,
-                "train_time": 68.69397807121277,
+                "train_time": 123.10805320739746,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -3279,9 +3285,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -3303,8 +3309,8 @@
                 "explain_level": 2,
                 "name": "6_Xgboost",
                 "status": "trained",
-                "final_loss": 0.6472850208271699,
-                "train_time": 166.42586207389832,
+                "final_loss": 0.646651250649109,
+                "train_time": 151.05025815963745,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -3328,9 +3334,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -3351,7 +3357,7 @@
                 "name": "10_CatBoost",
                 "status": "trained",
                 "final_loss": 0.647651608254767,
-                "train_time": 185.61538767814636,
+                "train_time": 120.5178451538086,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -3754,9 +3760,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
@@ -3777,7 +3783,7 @@
                 "name": "14_RandomForest",
                 "status": "trained",
                 "final_loss": 0.649951029243878,
-                "train_time": 66.3209171295166,
+                "train_time": 116.08897590637207,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -4177,9 +4183,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -4201,8 +4207,8 @@
                 "explain_level": 2,
                 "name": "7_Xgboost",
                 "status": "trained",
-                "final_loss": 0.6664936512596457,
-                "train_time": 166.28458428382874,
+                "final_loss": 0.666183113266366,
+                "train_time": 141.49119567871094,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -4226,9 +4232,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -4249,7 +4255,7 @@
                 "name": "11_CatBoost",
                 "status": "trained",
                 "final_loss": 0.6303747081245374,
-                "train_time": 203.68606328964233,
+                "train_time": 144.64403891563416,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -4652,9 +4658,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
@@ -4675,7 +4681,7 @@
                 "name": "15_RandomForest",
                 "status": "trained",
                 "final_loss": 0.6482587157359248,
-                "train_time": 77.2146532535553,
+                "train_time": 136.75521278381348,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             }
@@ -4701,9 +4707,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -4724,7 +4730,7 @@
                 "name": "16_CatBoost",
                 "status": "trained",
                 "final_loss": 0.6370182600976159,
-                "train_time": 282.2981827259064,
+                "train_time": 238.64678645133972,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -4748,9 +4754,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -4771,7 +4777,7 @@
                 "name": "17_CatBoost",
                 "status": "trained",
                 "final_loss": 0.631446083487358,
-                "train_time": 191.32364130020142,
+                "train_time": 123.50055575370789,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -4795,9 +4801,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -4818,7 +4824,7 @@
                 "name": "18_CatBoost",
                 "status": "trained",
                 "final_loss": 0.6404574583189424,
-                "train_time": 177.5342197418213,
+                "train_time": 93.41469693183899,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -5221,9 +5227,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
@@ -5243,8 +5249,8 @@
                 "explain_level": 2,
                 "name": "19_RandomForest",
                 "status": "trained",
-                "final_loss": 0.6361811996627,
-                "train_time": 76.71520948410034,
+                "final_loss": 0.6361811996627001,
+                "train_time": 134.05791449546814,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -5647,9 +5653,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
@@ -5670,7 +5676,7 @@
                 "name": "20_RandomForest",
                 "status": "trained",
                 "final_loss": 0.6366149108507498,
-                "train_time": 73.73302030563354,
+                "train_time": 126.81445097923279,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -6070,9 +6076,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -6094,8 +6100,8 @@
                 "explain_level": 2,
                 "name": "21_Xgboost",
                 "status": "trained",
-                "final_loss": 0.6472850208271699,
-                "train_time": 177.93115091323853,
+                "final_loss": 0.646651250649109,
+                "train_time": 162.76564502716064,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -6495,9 +6501,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -6519,8 +6525,8 @@
                 "explain_level": 2,
                 "name": "22_Xgboost",
                 "status": "trained",
-                "final_loss": 0.6472850208271699,
-                "train_time": 179.72627449035645,
+                "final_loss": 0.646651250649109,
+                "train_time": 166.19305777549744,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -6920,9 +6926,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -6945,7 +6951,7 @@
                 "name": "23_Xgboost",
                 "status": "trained",
                 "final_loss": 0.6562638237623565,
-                "train_time": 181.71033763885498,
+                "train_time": 168.613214969635,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -7345,9 +7351,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -7368,9 +7374,9 @@
                 "ml_task": "multiclass_classification",
                 "explain_level": 2,
                 "name": "24_Xgboost",
-                "status": "skipped",
-                "final_loss": 0.6562638237623565,
-                "train_time": 181.71033763885498,
+                "status": "trained",
+                "final_loss": 0.6610499120979424,
+                "train_time": 171.70719933509827,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             }
@@ -7396,9 +7402,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
@@ -7406,8 +7412,8 @@
                     "n_jobs": -1,
                     "seed": 1238,
                     "learning_rate": 0.15,
-                    "depth": 5,
-                    "rsm": 0.8,
+                    "depth": 6,
+                    "rsm": 0.7,
                     "loss_function": "MultiClass",
                     "eval_metric": "MultiClass",
                     "num_class": 3,
@@ -7416,10 +7422,10 @@
                 "automl_random_state": 1234,
                 "ml_task": "multiclass_classification",
                 "explain_level": 2,
-                "name": "24_CatBoost",
+                "name": "25_CatBoost",
                 "status": "trained",
-                "final_loss": 0.6361323452949391,
-                "train_time": 208.3682999610901,
+                "final_loss": 0.6279059409061731,
+                "train_time": 163.93105268478394,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -7443,18 +7449,18 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "CatBoost",
                     "ml_task": "multiclass_classification",
                     "n_jobs": -1,
                     "seed": 1238,
-                    "learning_rate": 0.2,
-                    "depth": 5,
-                    "rsm": 0.8,
+                    "learning_rate": 0.15,
+                    "depth": 6,
+                    "rsm": 0.9,
                     "loss_function": "MultiClass",
                     "eval_metric": "MultiClass",
                     "num_class": 3,
@@ -7463,10 +7469,57 @@
                 "automl_random_state": 1234,
                 "ml_task": "multiclass_classification",
                 "explain_level": 2,
-                "name": "25_CatBoost",
+                "name": "26_CatBoost",
+                "status": "trained",
+                "final_loss": 0.6283807630703718,
+                "train_time": 185.9604480266571,
+                "data_type": "original",
+                "max_time_for_learner": 72.0
+            },
+            {
+                "additional": {
+                    "max_rounds": 10000,
+                    "early_stopping_rounds": 50,
+                    "max_rows_limit": null,
+                    "max_cols_limit": null
+                },
+                "preprocessing": {
+                    "columns_preprocessing": {},
+                    "target_preprocessing": [
+                        "na_exclude",
+                        "categorical_to_int"
+                    ],
+                    "ml_task": "multiclass_classification"
+                },
+                "validation_strategy": {
+                    "validation_type": "kfold",
+                    "k_folds": 5,
+                    "shuffle": true,
+                    "stratify": true,
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
+                },
+                "learner": {
+                    "model_type": "CatBoost",
+                    "ml_task": "multiclass_classification",
+                    "n_jobs": -1,
+                    "seed": 1238,
+                    "learning_rate": 0.2,
+                    "depth": 6,
+                    "rsm": 0.7,
+                    "loss_function": "MultiClass",
+                    "eval_metric": "MultiClass",
+                    "num_class": 3,
+                    "explain_level": 2
+                },
+                "automl_random_state": 1234,
+                "ml_task": "multiclass_classification",
+                "explain_level": 2,
+                "name": "27_CatBoost",
                 "status": "skipped",
-                "final_loss": 0.6361323452949391,
-                "train_time": 208.3682999610901,
+                "final_loss": 0.6283807630703718,
+                "train_time": 185.9604480266571,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -7869,9 +7922,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
@@ -7879,8 +7932,8 @@
                     "n_jobs": -1,
                     "seed": 1235,
                     "criterion": "gini",
-                    "max_features": 0.6,
-                    "min_samples_split": 20,
+                    "max_features": 0.5,
+                    "min_samples_split": 10,
                     "max_depth": 4,
                     "eval_metric_name": "logloss",
                     "num_class": 3,
@@ -7889,10 +7942,10 @@
                 "automl_random_state": 1234,
                 "ml_task": "multiclass_classification",
                 "explain_level": 2,
-                "name": "26_RandomForest",
-                "status": "trained",
-                "final_loss": 0.6344933858130208,
-                "train_time": 76.581711769104,
+                "name": "28_RandomForest",
+                "status": "skipped",
+                "final_loss": 0.6283807630703718,
+                "train_time": 185.9604480266571,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -8295,18 +8348,18 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Random Forest",
                     "ml_task": "multiclass_classification",
                     "n_jobs": -1,
                     "seed": 1235,
-                    "criterion": "entropy",
-                    "max_features": 0.6,
-                    "min_samples_split": 20,
+                    "criterion": "gini",
+                    "max_features": 0.5,
+                    "min_samples_split": 30,
                     "max_depth": 4,
                     "eval_metric_name": "logloss",
                     "num_class": 3,
@@ -8315,10 +8368,862 @@
                 "automl_random_state": 1234,
                 "ml_task": "multiclass_classification",
                 "explain_level": 2,
-                "name": "27_RandomForest",
+                "name": "29_RandomForest",
                 "status": "skipped",
-                "final_loss": 0.6344933858130208,
-                "train_time": 76.581711769104,
+                "final_loss": 0.6283807630703718,
+                "train_time": 185.9604480266571,
+                "data_type": "original",
+                "max_time_for_learner": 72.0
+            },
+            {
+                "additional": {
+                    "trees_in_step": 100,
+                    "train_cant_improve_limit": 1,
+                    "min_steps": 1,
+                    "max_steps": 50,
+                    "early_stopping_rounds": 50,
+                    "max_rows_limit": null,
+                    "max_cols_limit": null
+                },
+                "preprocessing": {
+                    "columns_preprocessing": {
+                        "22I": [
+                            "categorical_to_int"
+                        ],
+                        "50I": [
+                            "categorical_to_int"
+                        ],
+                        "51G": [
+                            "categorical_to_int"
+                        ],
+                        "52A": [
+                            "categorical_to_int"
+                        ],
+                        "53G": [
+                            "categorical_to_int"
+                        ],
+                        "54M": [
+                            "categorical_to_int"
+                        ],
+                        "55A": [
+                            "categorical_to_int"
+                        ],
+                        "56F": [
+                            "categorical_to_int"
+                        ],
+                        "57T": [
+                            "categorical_to_int"
+                        ],
+                        "58A": [
+                            "categorical_to_int"
+                        ],
+                        "59N": [
+                            "categorical_to_int"
+                        ],
+                        "61V": [
+                            "categorical_to_int"
+                        ],
+                        "62R": [
+                            "categorical_to_int"
+                        ],
+                        "75L": [
+                            "categorical_to_int"
+                        ],
+                        "76R": [
+                            "categorical_to_int"
+                        ],
+                        "78S": [
+                            "categorical_to_int"
+                        ],
+                        "79G": [
+                            "categorical_to_int"
+                        ],
+                        "80A": [
+                            "categorical_to_int"
+                        ],
+                        "81V": [
+                            "categorical_to_int"
+                        ],
+                        "82P": [
+                            "categorical_to_int"
+                        ],
+                        "94D": [
+                            "categorical_to_int"
+                        ],
+                        "95Y": [
+                            "categorical_to_int"
+                        ],
+                        "96L": [
+                            "categorical_to_int"
+                        ],
+                        "97R": [
+                            "categorical_to_int"
+                        ],
+                        "98W": [
+                            "categorical_to_int"
+                        ],
+                        "99V": [
+                            "categorical_to_int"
+                        ],
+                        "100D": [
+                            "categorical_to_int"
+                        ],
+                        "107K": [
+                            "categorical_to_int"
+                        ],
+                        "108R": [
+                            "categorical_to_int"
+                        ],
+                        "109L": [
+                            "categorical_to_int"
+                        ],
+                        "110Y": [
+                            "categorical_to_int"
+                        ],
+                        "111Q": [
+                            "categorical_to_int"
+                        ],
+                        "112L": [
+                            "categorical_to_int"
+                        ],
+                        "115G": [
+                            "categorical_to_int"
+                        ],
+                        "117R": [
+                            "categorical_to_int"
+                        ],
+                        "118G": [
+                            "categorical_to_int"
+                        ],
+                        "119F": [
+                            "categorical_to_int"
+                        ],
+                        "120E": [
+                            "categorical_to_int"
+                        ],
+                        "121A": [
+                            "categorical_to_int"
+                        ],
+                        "122C": [
+                            "categorical_to_int"
+                        ],
+                        "123R": [
+                            "categorical_to_int"
+                        ],
+                        "124R": [
+                            "categorical_to_int"
+                        ],
+                        "127F": [
+                            "categorical_to_int"
+                        ],
+                        "202K": [
+                            "categorical_to_int"
+                        ],
+                        "203F": [
+                            "categorical_to_int"
+                        ],
+                        "204A": [
+                            "categorical_to_int"
+                        ],
+                        "205F": [
+                            "categorical_to_int"
+                        ],
+                        "206R": [
+                            "categorical_to_int"
+                        ],
+                        "207G": [
+                            "categorical_to_int"
+                        ],
+                        "208L": [
+                            "categorical_to_int"
+                        ],
+                        "211M": [
+                            "categorical_to_int"
+                        ],
+                        "223A": [
+                            "categorical_to_int"
+                        ],
+                        "224R": [
+                            "categorical_to_int"
+                        ],
+                        "225T": [
+                            "categorical_to_int"
+                        ],
+                        "226L": [
+                            "categorical_to_int"
+                        ],
+                        "227N": [
+                            "categorical_to_int"
+                        ],
+                        "228M": [
+                            "categorical_to_int"
+                        ],
+                        "229H": [
+                            "categorical_to_int"
+                        ],
+                        "230V": [
+                            "categorical_to_int"
+                        ],
+                        "231G": [
+                            "categorical_to_int"
+                        ],
+                        "233N": [
+                            "categorical_to_int"
+                        ],
+                        "234A": [
+                            "categorical_to_int"
+                        ],
+                        "235H": [
+                            "categorical_to_int"
+                        ],
+                        "236L": [
+                            "categorical_to_int"
+                        ],
+                        "237I": [
+                            "categorical_to_int"
+                        ],
+                        "238H": [
+                            "categorical_to_int"
+                        ],
+                        "239Y": [
+                            "categorical_to_int"
+                        ],
+                        "240P": [
+                            "categorical_to_int"
+                        ],
+                        "241V": [
+                            "categorical_to_int"
+                        ],
+                        "244E": [
+                            "categorical_to_int"
+                        ],
+                        "246M": [
+                            "categorical_to_int"
+                        ],
+                        "247V": [
+                            "categorical_to_int"
+                        ],
+                        "248N": [
+                            "categorical_to_int"
+                        ],
+                        "249I": [
+                            "categorical_to_int"
+                        ],
+                        "250A": [
+                            "categorical_to_int"
+                        ],
+                        "251A": [
+                            "categorical_to_int"
+                        ],
+                        "252F": [
+                            "categorical_to_int"
+                        ],
+                        "253V": [
+                            "categorical_to_int"
+                        ],
+                        "254S": [
+                            "categorical_to_int"
+                        ],
+                        "278F": [
+                            "categorical_to_int"
+                        ],
+                        "281W": [
+                            "categorical_to_int"
+                        ],
+                        "292M": [
+                            "categorical_to_int"
+                        ],
+                        "296I": [
+                            "categorical_to_int"
+                        ],
+                        "297D": [
+                            "categorical_to_int"
+                        ],
+                        "299W": [
+                            "categorical_to_int"
+                        ],
+                        "301M": [
+                            "categorical_to_int"
+                        ],
+                        "327A": [
+                            "categorical_to_int"
+                        ],
+                        "328V": [
+                            "categorical_to_int"
+                        ],
+                        "329P": [
+                            "categorical_to_int"
+                        ],
+                        "330H": [
+                            "categorical_to_int"
+                        ],
+                        "331H": [
+                            "categorical_to_int"
+                        ],
+                        "332G": [
+                            "categorical_to_int"
+                        ],
+                        "333A": [
+                            "categorical_to_int"
+                        ],
+                        "334G": [
+                            "categorical_to_int"
+                        ],
+                        "335A": [
+                            "categorical_to_int"
+                        ],
+                        "336C": [
+                            "categorical_to_int"
+                        ],
+                        "337I": [
+                            "categorical_to_int"
+                        ],
+                        "385W": [
+                            "categorical_to_int"
+                        ],
+                        "386F": [
+                            "categorical_to_int"
+                        ],
+                        "389S": [
+                            "categorical_to_int"
+                        ],
+                        "390S": [
+                            "categorical_to_int"
+                        ],
+                        "391R": [
+                            "categorical_to_int"
+                        ],
+                        "392R": [
+                            "categorical_to_int"
+                        ],
+                        "393V": [
+                            "categorical_to_int"
+                        ],
+                        "394C": [
+                            "categorical_to_int"
+                        ],
+                        "395D": [
+                            "categorical_to_int"
+                        ],
+                        "396L": [
+                            "categorical_to_int"
+                        ],
+                        "397Y": [
+                            "categorical_to_int"
+                        ],
+                        "401E": [
+                            "categorical_to_int"
+                        ],
+                        "402W": [
+                            "categorical_to_int"
+                        ],
+                        "414C": [
+                            "categorical_to_int"
+                        ],
+                        "415F": [
+                            "categorical_to_int"
+                        ],
+                        "416E": [
+                            "categorical_to_int"
+                        ],
+                        "417E": [
+                            "categorical_to_int"
+                        ],
+                        "418I": [
+                            "categorical_to_int"
+                        ],
+                        "419K": [
+                            "categorical_to_int"
+                        ],
+                        "420D": [
+                            "categorical_to_int"
+                        ],
+                        "421R": [
+                            "categorical_to_int"
+                        ],
+                        "422S": [
+                            "categorical_to_int"
+                        ],
+                        "423H": [
+                            "categorical_to_int"
+                        ],
+                        "424K": [
+                            "categorical_to_int"
+                        ],
+                        "425I": [
+                            "categorical_to_int"
+                        ],
+                        "426W": [
+                            "categorical_to_int"
+                        ],
+                        "427H": [
+                            "categorical_to_int"
+                        ],
+                        "428F": [
+                            "categorical_to_int"
+                        ]
+                    },
+                    "target_preprocessing": [
+                        "na_exclude",
+                        "categorical_to_int"
+                    ],
+                    "ml_task": "multiclass_classification"
+                },
+                "validation_strategy": {
+                    "validation_type": "kfold",
+                    "k_folds": 5,
+                    "shuffle": true,
+                    "stratify": true,
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
+                },
+                "learner": {
+                    "model_type": "Random Forest",
+                    "ml_task": "multiclass_classification",
+                    "n_jobs": -1,
+                    "seed": 1235,
+                    "criterion": "entropy",
+                    "max_features": 0.5,
+                    "min_samples_split": 10,
+                    "max_depth": 4,
+                    "eval_metric_name": "logloss",
+                    "num_class": 3,
+                    "explain_level": 2
+                },
+                "automl_random_state": 1234,
+                "ml_task": "multiclass_classification",
+                "explain_level": 2,
+                "name": "30_RandomForest",
+                "status": "skipped",
+                "final_loss": 0.6283807630703718,
+                "train_time": 185.9604480266571,
+                "data_type": "original",
+                "max_time_for_learner": 72.0
+            },
+            {
+                "additional": {
+                    "trees_in_step": 100,
+                    "train_cant_improve_limit": 1,
+                    "min_steps": 1,
+                    "max_steps": 50,
+                    "early_stopping_rounds": 50,
+                    "max_rows_limit": null,
+                    "max_cols_limit": null
+                },
+                "preprocessing": {
+                    "columns_preprocessing": {
+                        "22I": [
+                            "categorical_to_int"
+                        ],
+                        "50I": [
+                            "categorical_to_int"
+                        ],
+                        "51G": [
+                            "categorical_to_int"
+                        ],
+                        "52A": [
+                            "categorical_to_int"
+                        ],
+                        "53G": [
+                            "categorical_to_int"
+                        ],
+                        "54M": [
+                            "categorical_to_int"
+                        ],
+                        "55A": [
+                            "categorical_to_int"
+                        ],
+                        "56F": [
+                            "categorical_to_int"
+                        ],
+                        "57T": [
+                            "categorical_to_int"
+                        ],
+                        "58A": [
+                            "categorical_to_int"
+                        ],
+                        "59N": [
+                            "categorical_to_int"
+                        ],
+                        "61V": [
+                            "categorical_to_int"
+                        ],
+                        "62R": [
+                            "categorical_to_int"
+                        ],
+                        "75L": [
+                            "categorical_to_int"
+                        ],
+                        "76R": [
+                            "categorical_to_int"
+                        ],
+                        "78S": [
+                            "categorical_to_int"
+                        ],
+                        "79G": [
+                            "categorical_to_int"
+                        ],
+                        "80A": [
+                            "categorical_to_int"
+                        ],
+                        "81V": [
+                            "categorical_to_int"
+                        ],
+                        "82P": [
+                            "categorical_to_int"
+                        ],
+                        "94D": [
+                            "categorical_to_int"
+                        ],
+                        "95Y": [
+                            "categorical_to_int"
+                        ],
+                        "96L": [
+                            "categorical_to_int"
+                        ],
+                        "97R": [
+                            "categorical_to_int"
+                        ],
+                        "98W": [
+                            "categorical_to_int"
+                        ],
+                        "99V": [
+                            "categorical_to_int"
+                        ],
+                        "100D": [
+                            "categorical_to_int"
+                        ],
+                        "107K": [
+                            "categorical_to_int"
+                        ],
+                        "108R": [
+                            "categorical_to_int"
+                        ],
+                        "109L": [
+                            "categorical_to_int"
+                        ],
+                        "110Y": [
+                            "categorical_to_int"
+                        ],
+                        "111Q": [
+                            "categorical_to_int"
+                        ],
+                        "112L": [
+                            "categorical_to_int"
+                        ],
+                        "115G": [
+                            "categorical_to_int"
+                        ],
+                        "117R": [
+                            "categorical_to_int"
+                        ],
+                        "118G": [
+                            "categorical_to_int"
+                        ],
+                        "119F": [
+                            "categorical_to_int"
+                        ],
+                        "120E": [
+                            "categorical_to_int"
+                        ],
+                        "121A": [
+                            "categorical_to_int"
+                        ],
+                        "122C": [
+                            "categorical_to_int"
+                        ],
+                        "123R": [
+                            "categorical_to_int"
+                        ],
+                        "124R": [
+                            "categorical_to_int"
+                        ],
+                        "127F": [
+                            "categorical_to_int"
+                        ],
+                        "202K": [
+                            "categorical_to_int"
+                        ],
+                        "203F": [
+                            "categorical_to_int"
+                        ],
+                        "204A": [
+                            "categorical_to_int"
+                        ],
+                        "205F": [
+                            "categorical_to_int"
+                        ],
+                        "206R": [
+                            "categorical_to_int"
+                        ],
+                        "207G": [
+                            "categorical_to_int"
+                        ],
+                        "208L": [
+                            "categorical_to_int"
+                        ],
+                        "211M": [
+                            "categorical_to_int"
+                        ],
+                        "223A": [
+                            "categorical_to_int"
+                        ],
+                        "224R": [
+                            "categorical_to_int"
+                        ],
+                        "225T": [
+                            "categorical_to_int"
+                        ],
+                        "226L": [
+                            "categorical_to_int"
+                        ],
+                        "227N": [
+                            "categorical_to_int"
+                        ],
+                        "228M": [
+                            "categorical_to_int"
+                        ],
+                        "229H": [
+                            "categorical_to_int"
+                        ],
+                        "230V": [
+                            "categorical_to_int"
+                        ],
+                        "231G": [
+                            "categorical_to_int"
+                        ],
+                        "233N": [
+                            "categorical_to_int"
+                        ],
+                        "234A": [
+                            "categorical_to_int"
+                        ],
+                        "235H": [
+                            "categorical_to_int"
+                        ],
+                        "236L": [
+                            "categorical_to_int"
+                        ],
+                        "237I": [
+                            "categorical_to_int"
+                        ],
+                        "238H": [
+                            "categorical_to_int"
+                        ],
+                        "239Y": [
+                            "categorical_to_int"
+                        ],
+                        "240P": [
+                            "categorical_to_int"
+                        ],
+                        "241V": [
+                            "categorical_to_int"
+                        ],
+                        "244E": [
+                            "categorical_to_int"
+                        ],
+                        "246M": [
+                            "categorical_to_int"
+                        ],
+                        "247V": [
+                            "categorical_to_int"
+                        ],
+                        "248N": [
+                            "categorical_to_int"
+                        ],
+                        "249I": [
+                            "categorical_to_int"
+                        ],
+                        "250A": [
+                            "categorical_to_int"
+                        ],
+                        "251A": [
+                            "categorical_to_int"
+                        ],
+                        "252F": [
+                            "categorical_to_int"
+                        ],
+                        "253V": [
+                            "categorical_to_int"
+                        ],
+                        "254S": [
+                            "categorical_to_int"
+                        ],
+                        "278F": [
+                            "categorical_to_int"
+                        ],
+                        "281W": [
+                            "categorical_to_int"
+                        ],
+                        "292M": [
+                            "categorical_to_int"
+                        ],
+                        "296I": [
+                            "categorical_to_int"
+                        ],
+                        "297D": [
+                            "categorical_to_int"
+                        ],
+                        "299W": [
+                            "categorical_to_int"
+                        ],
+                        "301M": [
+                            "categorical_to_int"
+                        ],
+                        "327A": [
+                            "categorical_to_int"
+                        ],
+                        "328V": [
+                            "categorical_to_int"
+                        ],
+                        "329P": [
+                            "categorical_to_int"
+                        ],
+                        "330H": [
+                            "categorical_to_int"
+                        ],
+                        "331H": [
+                            "categorical_to_int"
+                        ],
+                        "332G": [
+                            "categorical_to_int"
+                        ],
+                        "333A": [
+                            "categorical_to_int"
+                        ],
+                        "334G": [
+                            "categorical_to_int"
+                        ],
+                        "335A": [
+                            "categorical_to_int"
+                        ],
+                        "336C": [
+                            "categorical_to_int"
+                        ],
+                        "337I": [
+                            "categorical_to_int"
+                        ],
+                        "385W": [
+                            "categorical_to_int"
+                        ],
+                        "386F": [
+                            "categorical_to_int"
+                        ],
+                        "389S": [
+                            "categorical_to_int"
+                        ],
+                        "390S": [
+                            "categorical_to_int"
+                        ],
+                        "391R": [
+                            "categorical_to_int"
+                        ],
+                        "392R": [
+                            "categorical_to_int"
+                        ],
+                        "393V": [
+                            "categorical_to_int"
+                        ],
+                        "394C": [
+                            "categorical_to_int"
+                        ],
+                        "395D": [
+                            "categorical_to_int"
+                        ],
+                        "396L": [
+                            "categorical_to_int"
+                        ],
+                        "397Y": [
+                            "categorical_to_int"
+                        ],
+                        "401E": [
+                            "categorical_to_int"
+                        ],
+                        "402W": [
+                            "categorical_to_int"
+                        ],
+                        "414C": [
+                            "categorical_to_int"
+                        ],
+                        "415F": [
+                            "categorical_to_int"
+                        ],
+                        "416E": [
+                            "categorical_to_int"
+                        ],
+                        "417E": [
+                            "categorical_to_int"
+                        ],
+                        "418I": [
+                            "categorical_to_int"
+                        ],
+                        "419K": [
+                            "categorical_to_int"
+                        ],
+                        "420D": [
+                            "categorical_to_int"
+                        ],
+                        "421R": [
+                            "categorical_to_int"
+                        ],
+                        "422S": [
+                            "categorical_to_int"
+                        ],
+                        "423H": [
+                            "categorical_to_int"
+                        ],
+                        "424K": [
+                            "categorical_to_int"
+                        ],
+                        "425I": [
+                            "categorical_to_int"
+                        ],
+                        "426W": [
+                            "categorical_to_int"
+                        ],
+                        "427H": [
+                            "categorical_to_int"
+                        ],
+                        "428F": [
+                            "categorical_to_int"
+                        ]
+                    },
+                    "target_preprocessing": [
+                        "na_exclude",
+                        "categorical_to_int"
+                    ],
+                    "ml_task": "multiclass_classification"
+                },
+                "validation_strategy": {
+                    "validation_type": "kfold",
+                    "k_folds": 5,
+                    "shuffle": true,
+                    "stratify": true,
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
+                },
+                "learner": {
+                    "model_type": "Random Forest",
+                    "ml_task": "multiclass_classification",
+                    "n_jobs": -1,
+                    "seed": 1235,
+                    "criterion": "entropy",
+                    "max_features": 0.5,
+                    "min_samples_split": 30,
+                    "max_depth": 4,
+                    "eval_metric_name": "logloss",
+                    "num_class": 3,
+                    "explain_level": 2
+                },
+                "automl_random_state": 1234,
+                "ml_task": "multiclass_classification",
+                "explain_level": 2,
+                "name": "31_RandomForest",
+                "status": "skipped",
+                "final_loss": 0.6283807630703718,
+                "train_time": 185.9604480266571,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             },
@@ -8718,9 +9623,9 @@
                     "k_folds": 5,
                     "shuffle": true,
                     "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
+                    "X_path": "../automl_stereo/X.data",
+                    "y_path": "../automl_stereo/y.data",
+                    "results_path": "../automl_stereo"
                 },
                 "learner": {
                     "model_type": "Xgboost",
@@ -8729,8 +9634,8 @@
                     "seed": 1237,
                     "objective": "multi:softprob",
                     "eta": 0.1,
-                    "max_depth": 8,
-                    "min_child_weight": 10,
+                    "max_depth": 5,
+                    "min_child_weight": 25,
                     "subsample": 0.9,
                     "colsample_bytree": 0.6,
                     "eval_metric": "mlogloss",
@@ -8740,1285 +9645,10 @@
                 "automl_random_state": 1234,
                 "ml_task": "multiclass_classification",
                 "explain_level": 2,
-                "name": "28_Xgboost",
+                "name": "32_Xgboost",
                 "status": "skipped",
-                "final_loss": 0.6344933858130208,
-                "train_time": 76.581711769104,
-                "data_type": "original",
-                "max_time_for_learner": 72.0
-            },
-            {
-                "additional": {
-                    "max_rounds": 10000,
-                    "early_stopping_rounds": 50,
-                    "max_rows_limit": null,
-                    "max_cols_limit": null
-                },
-                "preprocessing": {
-                    "columns_preprocessing": {
-                        "22I": [
-                            "categorical_to_int"
-                        ],
-                        "50I": [
-                            "categorical_to_int"
-                        ],
-                        "51G": [
-                            "categorical_to_int"
-                        ],
-                        "52A": [
-                            "categorical_to_int"
-                        ],
-                        "53G": [
-                            "categorical_to_int"
-                        ],
-                        "54M": [
-                            "categorical_to_int"
-                        ],
-                        "55A": [
-                            "categorical_to_int"
-                        ],
-                        "56F": [
-                            "categorical_to_int"
-                        ],
-                        "57T": [
-                            "categorical_to_int"
-                        ],
-                        "58A": [
-                            "categorical_to_int"
-                        ],
-                        "59N": [
-                            "categorical_to_int"
-                        ],
-                        "61V": [
-                            "categorical_to_int"
-                        ],
-                        "62R": [
-                            "categorical_to_int"
-                        ],
-                        "75L": [
-                            "categorical_to_int"
-                        ],
-                        "76R": [
-                            "categorical_to_int"
-                        ],
-                        "78S": [
-                            "categorical_to_int"
-                        ],
-                        "79G": [
-                            "categorical_to_int"
-                        ],
-                        "80A": [
-                            "categorical_to_int"
-                        ],
-                        "81V": [
-                            "categorical_to_int"
-                        ],
-                        "82P": [
-                            "categorical_to_int"
-                        ],
-                        "94D": [
-                            "categorical_to_int"
-                        ],
-                        "95Y": [
-                            "categorical_to_int"
-                        ],
-                        "96L": [
-                            "categorical_to_int"
-                        ],
-                        "97R": [
-                            "categorical_to_int"
-                        ],
-                        "98W": [
-                            "categorical_to_int"
-                        ],
-                        "99V": [
-                            "categorical_to_int"
-                        ],
-                        "100D": [
-                            "categorical_to_int"
-                        ],
-                        "107K": [
-                            "categorical_to_int"
-                        ],
-                        "108R": [
-                            "categorical_to_int"
-                        ],
-                        "109L": [
-                            "categorical_to_int"
-                        ],
-                        "110Y": [
-                            "categorical_to_int"
-                        ],
-                        "111Q": [
-                            "categorical_to_int"
-                        ],
-                        "112L": [
-                            "categorical_to_int"
-                        ],
-                        "115G": [
-                            "categorical_to_int"
-                        ],
-                        "117R": [
-                            "categorical_to_int"
-                        ],
-                        "118G": [
-                            "categorical_to_int"
-                        ],
-                        "119F": [
-                            "categorical_to_int"
-                        ],
-                        "120E": [
-                            "categorical_to_int"
-                        ],
-                        "121A": [
-                            "categorical_to_int"
-                        ],
-                        "122C": [
-                            "categorical_to_int"
-                        ],
-                        "123R": [
-                            "categorical_to_int"
-                        ],
-                        "124R": [
-                            "categorical_to_int"
-                        ],
-                        "127F": [
-                            "categorical_to_int"
-                        ],
-                        "202K": [
-                            "categorical_to_int"
-                        ],
-                        "203F": [
-                            "categorical_to_int"
-                        ],
-                        "204A": [
-                            "categorical_to_int"
-                        ],
-                        "205F": [
-                            "categorical_to_int"
-                        ],
-                        "206R": [
-                            "categorical_to_int"
-                        ],
-                        "207G": [
-                            "categorical_to_int"
-                        ],
-                        "208L": [
-                            "categorical_to_int"
-                        ],
-                        "211M": [
-                            "categorical_to_int"
-                        ],
-                        "223A": [
-                            "categorical_to_int"
-                        ],
-                        "224R": [
-                            "categorical_to_int"
-                        ],
-                        "225T": [
-                            "categorical_to_int"
-                        ],
-                        "226L": [
-                            "categorical_to_int"
-                        ],
-                        "227N": [
-                            "categorical_to_int"
-                        ],
-                        "228M": [
-                            "categorical_to_int"
-                        ],
-                        "229H": [
-                            "categorical_to_int"
-                        ],
-                        "230V": [
-                            "categorical_to_int"
-                        ],
-                        "231G": [
-                            "categorical_to_int"
-                        ],
-                        "233N": [
-                            "categorical_to_int"
-                        ],
-                        "234A": [
-                            "categorical_to_int"
-                        ],
-                        "235H": [
-                            "categorical_to_int"
-                        ],
-                        "236L": [
-                            "categorical_to_int"
-                        ],
-                        "237I": [
-                            "categorical_to_int"
-                        ],
-                        "238H": [
-                            "categorical_to_int"
-                        ],
-                        "239Y": [
-                            "categorical_to_int"
-                        ],
-                        "240P": [
-                            "categorical_to_int"
-                        ],
-                        "241V": [
-                            "categorical_to_int"
-                        ],
-                        "244E": [
-                            "categorical_to_int"
-                        ],
-                        "246M": [
-                            "categorical_to_int"
-                        ],
-                        "247V": [
-                            "categorical_to_int"
-                        ],
-                        "248N": [
-                            "categorical_to_int"
-                        ],
-                        "249I": [
-                            "categorical_to_int"
-                        ],
-                        "250A": [
-                            "categorical_to_int"
-                        ],
-                        "251A": [
-                            "categorical_to_int"
-                        ],
-                        "252F": [
-                            "categorical_to_int"
-                        ],
-                        "253V": [
-                            "categorical_to_int"
-                        ],
-                        "254S": [
-                            "categorical_to_int"
-                        ],
-                        "278F": [
-                            "categorical_to_int"
-                        ],
-                        "281W": [
-                            "categorical_to_int"
-                        ],
-                        "292M": [
-                            "categorical_to_int"
-                        ],
-                        "296I": [
-                            "categorical_to_int"
-                        ],
-                        "297D": [
-                            "categorical_to_int"
-                        ],
-                        "299W": [
-                            "categorical_to_int"
-                        ],
-                        "301M": [
-                            "categorical_to_int"
-                        ],
-                        "327A": [
-                            "categorical_to_int"
-                        ],
-                        "328V": [
-                            "categorical_to_int"
-                        ],
-                        "329P": [
-                            "categorical_to_int"
-                        ],
-                        "330H": [
-                            "categorical_to_int"
-                        ],
-                        "331H": [
-                            "categorical_to_int"
-                        ],
-                        "332G": [
-                            "categorical_to_int"
-                        ],
-                        "333A": [
-                            "categorical_to_int"
-                        ],
-                        "334G": [
-                            "categorical_to_int"
-                        ],
-                        "335A": [
-                            "categorical_to_int"
-                        ],
-                        "336C": [
-                            "categorical_to_int"
-                        ],
-                        "337I": [
-                            "categorical_to_int"
-                        ],
-                        "385W": [
-                            "categorical_to_int"
-                        ],
-                        "386F": [
-                            "categorical_to_int"
-                        ],
-                        "389S": [
-                            "categorical_to_int"
-                        ],
-                        "390S": [
-                            "categorical_to_int"
-                        ],
-                        "391R": [
-                            "categorical_to_int"
-                        ],
-                        "392R": [
-                            "categorical_to_int"
-                        ],
-                        "393V": [
-                            "categorical_to_int"
-                        ],
-                        "394C": [
-                            "categorical_to_int"
-                        ],
-                        "395D": [
-                            "categorical_to_int"
-                        ],
-                        "396L": [
-                            "categorical_to_int"
-                        ],
-                        "397Y": [
-                            "categorical_to_int"
-                        ],
-                        "401E": [
-                            "categorical_to_int"
-                        ],
-                        "402W": [
-                            "categorical_to_int"
-                        ],
-                        "414C": [
-                            "categorical_to_int"
-                        ],
-                        "415F": [
-                            "categorical_to_int"
-                        ],
-                        "416E": [
-                            "categorical_to_int"
-                        ],
-                        "417E": [
-                            "categorical_to_int"
-                        ],
-                        "418I": [
-                            "categorical_to_int"
-                        ],
-                        "419K": [
-                            "categorical_to_int"
-                        ],
-                        "420D": [
-                            "categorical_to_int"
-                        ],
-                        "421R": [
-                            "categorical_to_int"
-                        ],
-                        "422S": [
-                            "categorical_to_int"
-                        ],
-                        "423H": [
-                            "categorical_to_int"
-                        ],
-                        "424K": [
-                            "categorical_to_int"
-                        ],
-                        "425I": [
-                            "categorical_to_int"
-                        ],
-                        "426W": [
-                            "categorical_to_int"
-                        ],
-                        "427H": [
-                            "categorical_to_int"
-                        ],
-                        "428F": [
-                            "categorical_to_int"
-                        ]
-                    },
-                    "target_preprocessing": [
-                        "na_exclude",
-                        "categorical_to_int"
-                    ],
-                    "ml_task": "multiclass_classification"
-                },
-                "validation_strategy": {
-                    "validation_type": "kfold",
-                    "k_folds": 5,
-                    "shuffle": true,
-                    "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
-                },
-                "learner": {
-                    "model_type": "Xgboost",
-                    "ml_task": "multiclass_classification",
-                    "n_jobs": -1,
-                    "seed": 1237,
-                    "objective": "multi:softprob",
-                    "eta": 0.1,
-                    "max_depth": 8,
-                    "min_child_weight": 50,
-                    "subsample": 0.9,
-                    "colsample_bytree": 0.6,
-                    "eval_metric": "mlogloss",
-                    "num_class": 3,
-                    "explain_level": 2
-                },
-                "automl_random_state": 1234,
-                "ml_task": "multiclass_classification",
-                "explain_level": 2,
-                "name": "29_Xgboost",
-                "status": "skipped",
-                "final_loss": 0.6344933858130208,
-                "train_time": 76.581711769104,
-                "data_type": "original",
-                "max_time_for_learner": 72.0
-            },
-            {
-                "additional": {
-                    "max_rounds": 10000,
-                    "early_stopping_rounds": 50,
-                    "max_rows_limit": null,
-                    "max_cols_limit": null
-                },
-                "preprocessing": {
-                    "columns_preprocessing": {
-                        "22I": [
-                            "categorical_to_int"
-                        ],
-                        "50I": [
-                            "categorical_to_int"
-                        ],
-                        "51G": [
-                            "categorical_to_int"
-                        ],
-                        "52A": [
-                            "categorical_to_int"
-                        ],
-                        "53G": [
-                            "categorical_to_int"
-                        ],
-                        "54M": [
-                            "categorical_to_int"
-                        ],
-                        "55A": [
-                            "categorical_to_int"
-                        ],
-                        "56F": [
-                            "categorical_to_int"
-                        ],
-                        "57T": [
-                            "categorical_to_int"
-                        ],
-                        "58A": [
-                            "categorical_to_int"
-                        ],
-                        "59N": [
-                            "categorical_to_int"
-                        ],
-                        "61V": [
-                            "categorical_to_int"
-                        ],
-                        "62R": [
-                            "categorical_to_int"
-                        ],
-                        "75L": [
-                            "categorical_to_int"
-                        ],
-                        "76R": [
-                            "categorical_to_int"
-                        ],
-                        "78S": [
-                            "categorical_to_int"
-                        ],
-                        "79G": [
-                            "categorical_to_int"
-                        ],
-                        "80A": [
-                            "categorical_to_int"
-                        ],
-                        "81V": [
-                            "categorical_to_int"
-                        ],
-                        "82P": [
-                            "categorical_to_int"
-                        ],
-                        "94D": [
-                            "categorical_to_int"
-                        ],
-                        "95Y": [
-                            "categorical_to_int"
-                        ],
-                        "96L": [
-                            "categorical_to_int"
-                        ],
-                        "97R": [
-                            "categorical_to_int"
-                        ],
-                        "98W": [
-                            "categorical_to_int"
-                        ],
-                        "99V": [
-                            "categorical_to_int"
-                        ],
-                        "100D": [
-                            "categorical_to_int"
-                        ],
-                        "107K": [
-                            "categorical_to_int"
-                        ],
-                        "108R": [
-                            "categorical_to_int"
-                        ],
-                        "109L": [
-                            "categorical_to_int"
-                        ],
-                        "110Y": [
-                            "categorical_to_int"
-                        ],
-                        "111Q": [
-                            "categorical_to_int"
-                        ],
-                        "112L": [
-                            "categorical_to_int"
-                        ],
-                        "115G": [
-                            "categorical_to_int"
-                        ],
-                        "117R": [
-                            "categorical_to_int"
-                        ],
-                        "118G": [
-                            "categorical_to_int"
-                        ],
-                        "119F": [
-                            "categorical_to_int"
-                        ],
-                        "120E": [
-                            "categorical_to_int"
-                        ],
-                        "121A": [
-                            "categorical_to_int"
-                        ],
-                        "122C": [
-                            "categorical_to_int"
-                        ],
-                        "123R": [
-                            "categorical_to_int"
-                        ],
-                        "124R": [
-                            "categorical_to_int"
-                        ],
-                        "127F": [
-                            "categorical_to_int"
-                        ],
-                        "202K": [
-                            "categorical_to_int"
-                        ],
-                        "203F": [
-                            "categorical_to_int"
-                        ],
-                        "204A": [
-                            "categorical_to_int"
-                        ],
-                        "205F": [
-                            "categorical_to_int"
-                        ],
-                        "206R": [
-                            "categorical_to_int"
-                        ],
-                        "207G": [
-                            "categorical_to_int"
-                        ],
-                        "208L": [
-                            "categorical_to_int"
-                        ],
-                        "211M": [
-                            "categorical_to_int"
-                        ],
-                        "223A": [
-                            "categorical_to_int"
-                        ],
-                        "224R": [
-                            "categorical_to_int"
-                        ],
-                        "225T": [
-                            "categorical_to_int"
-                        ],
-                        "226L": [
-                            "categorical_to_int"
-                        ],
-                        "227N": [
-                            "categorical_to_int"
-                        ],
-                        "228M": [
-                            "categorical_to_int"
-                        ],
-                        "229H": [
-                            "categorical_to_int"
-                        ],
-                        "230V": [
-                            "categorical_to_int"
-                        ],
-                        "231G": [
-                            "categorical_to_int"
-                        ],
-                        "233N": [
-                            "categorical_to_int"
-                        ],
-                        "234A": [
-                            "categorical_to_int"
-                        ],
-                        "235H": [
-                            "categorical_to_int"
-                        ],
-                        "236L": [
-                            "categorical_to_int"
-                        ],
-                        "237I": [
-                            "categorical_to_int"
-                        ],
-                        "238H": [
-                            "categorical_to_int"
-                        ],
-                        "239Y": [
-                            "categorical_to_int"
-                        ],
-                        "240P": [
-                            "categorical_to_int"
-                        ],
-                        "241V": [
-                            "categorical_to_int"
-                        ],
-                        "244E": [
-                            "categorical_to_int"
-                        ],
-                        "246M": [
-                            "categorical_to_int"
-                        ],
-                        "247V": [
-                            "categorical_to_int"
-                        ],
-                        "248N": [
-                            "categorical_to_int"
-                        ],
-                        "249I": [
-                            "categorical_to_int"
-                        ],
-                        "250A": [
-                            "categorical_to_int"
-                        ],
-                        "251A": [
-                            "categorical_to_int"
-                        ],
-                        "252F": [
-                            "categorical_to_int"
-                        ],
-                        "253V": [
-                            "categorical_to_int"
-                        ],
-                        "254S": [
-                            "categorical_to_int"
-                        ],
-                        "278F": [
-                            "categorical_to_int"
-                        ],
-                        "281W": [
-                            "categorical_to_int"
-                        ],
-                        "292M": [
-                            "categorical_to_int"
-                        ],
-                        "296I": [
-                            "categorical_to_int"
-                        ],
-                        "297D": [
-                            "categorical_to_int"
-                        ],
-                        "299W": [
-                            "categorical_to_int"
-                        ],
-                        "301M": [
-                            "categorical_to_int"
-                        ],
-                        "327A": [
-                            "categorical_to_int"
-                        ],
-                        "328V": [
-                            "categorical_to_int"
-                        ],
-                        "329P": [
-                            "categorical_to_int"
-                        ],
-                        "330H": [
-                            "categorical_to_int"
-                        ],
-                        "331H": [
-                            "categorical_to_int"
-                        ],
-                        "332G": [
-                            "categorical_to_int"
-                        ],
-                        "333A": [
-                            "categorical_to_int"
-                        ],
-                        "334G": [
-                            "categorical_to_int"
-                        ],
-                        "335A": [
-                            "categorical_to_int"
-                        ],
-                        "336C": [
-                            "categorical_to_int"
-                        ],
-                        "337I": [
-                            "categorical_to_int"
-                        ],
-                        "385W": [
-                            "categorical_to_int"
-                        ],
-                        "386F": [
-                            "categorical_to_int"
-                        ],
-                        "389S": [
-                            "categorical_to_int"
-                        ],
-                        "390S": [
-                            "categorical_to_int"
-                        ],
-                        "391R": [
-                            "categorical_to_int"
-                        ],
-                        "392R": [
-                            "categorical_to_int"
-                        ],
-                        "393V": [
-                            "categorical_to_int"
-                        ],
-                        "394C": [
-                            "categorical_to_int"
-                        ],
-                        "395D": [
-                            "categorical_to_int"
-                        ],
-                        "396L": [
-                            "categorical_to_int"
-                        ],
-                        "397Y": [
-                            "categorical_to_int"
-                        ],
-                        "401E": [
-                            "categorical_to_int"
-                        ],
-                        "402W": [
-                            "categorical_to_int"
-                        ],
-                        "414C": [
-                            "categorical_to_int"
-                        ],
-                        "415F": [
-                            "categorical_to_int"
-                        ],
-                        "416E": [
-                            "categorical_to_int"
-                        ],
-                        "417E": [
-                            "categorical_to_int"
-                        ],
-                        "418I": [
-                            "categorical_to_int"
-                        ],
-                        "419K": [
-                            "categorical_to_int"
-                        ],
-                        "420D": [
-                            "categorical_to_int"
-                        ],
-                        "421R": [
-                            "categorical_to_int"
-                        ],
-                        "422S": [
-                            "categorical_to_int"
-                        ],
-                        "423H": [
-                            "categorical_to_int"
-                        ],
-                        "424K": [
-                            "categorical_to_int"
-                        ],
-                        "425I": [
-                            "categorical_to_int"
-                        ],
-                        "426W": [
-                            "categorical_to_int"
-                        ],
-                        "427H": [
-                            "categorical_to_int"
-                        ],
-                        "428F": [
-                            "categorical_to_int"
-                        ]
-                    },
-                    "target_preprocessing": [
-                        "na_exclude",
-                        "categorical_to_int"
-                    ],
-                    "ml_task": "multiclass_classification"
-                },
-                "validation_strategy": {
-                    "validation_type": "kfold",
-                    "k_folds": 5,
-                    "shuffle": true,
-                    "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
-                },
-                "learner": {
-                    "model_type": "Xgboost",
-                    "ml_task": "multiclass_classification",
-                    "n_jobs": -1,
-                    "seed": 1237,
-                    "objective": "multi:softprob",
-                    "eta": 0.1,
-                    "max_depth": 7,
-                    "min_child_weight": 10,
-                    "subsample": 0.9,
-                    "colsample_bytree": 0.6,
-                    "eval_metric": "mlogloss",
-                    "num_class": 3,
-                    "explain_level": 2
-                },
-                "automl_random_state": 1234,
-                "ml_task": "multiclass_classification",
-                "explain_level": 2,
-                "name": "30_Xgboost",
-                "status": "skipped",
-                "final_loss": 0.6344933858130208,
-                "train_time": 76.581711769104,
-                "data_type": "original",
-                "max_time_for_learner": 72.0
-            },
-            {
-                "additional": {
-                    "max_rounds": 10000,
-                    "early_stopping_rounds": 50,
-                    "max_rows_limit": null,
-                    "max_cols_limit": null
-                },
-                "preprocessing": {
-                    "columns_preprocessing": {
-                        "22I": [
-                            "categorical_to_int"
-                        ],
-                        "50I": [
-                            "categorical_to_int"
-                        ],
-                        "51G": [
-                            "categorical_to_int"
-                        ],
-                        "52A": [
-                            "categorical_to_int"
-                        ],
-                        "53G": [
-                            "categorical_to_int"
-                        ],
-                        "54M": [
-                            "categorical_to_int"
-                        ],
-                        "55A": [
-                            "categorical_to_int"
-                        ],
-                        "56F": [
-                            "categorical_to_int"
-                        ],
-                        "57T": [
-                            "categorical_to_int"
-                        ],
-                        "58A": [
-                            "categorical_to_int"
-                        ],
-                        "59N": [
-                            "categorical_to_int"
-                        ],
-                        "61V": [
-                            "categorical_to_int"
-                        ],
-                        "62R": [
-                            "categorical_to_int"
-                        ],
-                        "75L": [
-                            "categorical_to_int"
-                        ],
-                        "76R": [
-                            "categorical_to_int"
-                        ],
-                        "78S": [
-                            "categorical_to_int"
-                        ],
-                        "79G": [
-                            "categorical_to_int"
-                        ],
-                        "80A": [
-                            "categorical_to_int"
-                        ],
-                        "81V": [
-                            "categorical_to_int"
-                        ],
-                        "82P": [
-                            "categorical_to_int"
-                        ],
-                        "94D": [
-                            "categorical_to_int"
-                        ],
-                        "95Y": [
-                            "categorical_to_int"
-                        ],
-                        "96L": [
-                            "categorical_to_int"
-                        ],
-                        "97R": [
-                            "categorical_to_int"
-                        ],
-                        "98W": [
-                            "categorical_to_int"
-                        ],
-                        "99V": [
-                            "categorical_to_int"
-                        ],
-                        "100D": [
-                            "categorical_to_int"
-                        ],
-                        "107K": [
-                            "categorical_to_int"
-                        ],
-                        "108R": [
-                            "categorical_to_int"
-                        ],
-                        "109L": [
-                            "categorical_to_int"
-                        ],
-                        "110Y": [
-                            "categorical_to_int"
-                        ],
-                        "111Q": [
-                            "categorical_to_int"
-                        ],
-                        "112L": [
-                            "categorical_to_int"
-                        ],
-                        "115G": [
-                            "categorical_to_int"
-                        ],
-                        "117R": [
-                            "categorical_to_int"
-                        ],
-                        "118G": [
-                            "categorical_to_int"
-                        ],
-                        "119F": [
-                            "categorical_to_int"
-                        ],
-                        "120E": [
-                            "categorical_to_int"
-                        ],
-                        "121A": [
-                            "categorical_to_int"
-                        ],
-                        "122C": [
-                            "categorical_to_int"
-                        ],
-                        "123R": [
-                            "categorical_to_int"
-                        ],
-                        "124R": [
-                            "categorical_to_int"
-                        ],
-                        "127F": [
-                            "categorical_to_int"
-                        ],
-                        "202K": [
-                            "categorical_to_int"
-                        ],
-                        "203F": [
-                            "categorical_to_int"
-                        ],
-                        "204A": [
-                            "categorical_to_int"
-                        ],
-                        "205F": [
-                            "categorical_to_int"
-                        ],
-                        "206R": [
-                            "categorical_to_int"
-                        ],
-                        "207G": [
-                            "categorical_to_int"
-                        ],
-                        "208L": [
-                            "categorical_to_int"
-                        ],
-                        "211M": [
-                            "categorical_to_int"
-                        ],
-                        "223A": [
-                            "categorical_to_int"
-                        ],
-                        "224R": [
-                            "categorical_to_int"
-                        ],
-                        "225T": [
-                            "categorical_to_int"
-                        ],
-                        "226L": [
-                            "categorical_to_int"
-                        ],
-                        "227N": [
-                            "categorical_to_int"
-                        ],
-                        "228M": [
-                            "categorical_to_int"
-                        ],
-                        "229H": [
-                            "categorical_to_int"
-                        ],
-                        "230V": [
-                            "categorical_to_int"
-                        ],
-                        "231G": [
-                            "categorical_to_int"
-                        ],
-                        "233N": [
-                            "categorical_to_int"
-                        ],
-                        "234A": [
-                            "categorical_to_int"
-                        ],
-                        "235H": [
-                            "categorical_to_int"
-                        ],
-                        "236L": [
-                            "categorical_to_int"
-                        ],
-                        "237I": [
-                            "categorical_to_int"
-                        ],
-                        "238H": [
-                            "categorical_to_int"
-                        ],
-                        "239Y": [
-                            "categorical_to_int"
-                        ],
-                        "240P": [
-                            "categorical_to_int"
-                        ],
-                        "241V": [
-                            "categorical_to_int"
-                        ],
-                        "244E": [
-                            "categorical_to_int"
-                        ],
-                        "246M": [
-                            "categorical_to_int"
-                        ],
-                        "247V": [
-                            "categorical_to_int"
-                        ],
-                        "248N": [
-                            "categorical_to_int"
-                        ],
-                        "249I": [
-                            "categorical_to_int"
-                        ],
-                        "250A": [
-                            "categorical_to_int"
-                        ],
-                        "251A": [
-                            "categorical_to_int"
-                        ],
-                        "252F": [
-                            "categorical_to_int"
-                        ],
-                        "253V": [
-                            "categorical_to_int"
-                        ],
-                        "254S": [
-                            "categorical_to_int"
-                        ],
-                        "278F": [
-                            "categorical_to_int"
-                        ],
-                        "281W": [
-                            "categorical_to_int"
-                        ],
-                        "292M": [
-                            "categorical_to_int"
-                        ],
-                        "296I": [
-                            "categorical_to_int"
-                        ],
-                        "297D": [
-                            "categorical_to_int"
-                        ],
-                        "299W": [
-                            "categorical_to_int"
-                        ],
-                        "301M": [
-                            "categorical_to_int"
-                        ],
-                        "327A": [
-                            "categorical_to_int"
-                        ],
-                        "328V": [
-                            "categorical_to_int"
-                        ],
-                        "329P": [
-                            "categorical_to_int"
-                        ],
-                        "330H": [
-                            "categorical_to_int"
-                        ],
-                        "331H": [
-                            "categorical_to_int"
-                        ],
-                        "332G": [
-                            "categorical_to_int"
-                        ],
-                        "333A": [
-                            "categorical_to_int"
-                        ],
-                        "334G": [
-                            "categorical_to_int"
-                        ],
-                        "335A": [
-                            "categorical_to_int"
-                        ],
-                        "336C": [
-                            "categorical_to_int"
-                        ],
-                        "337I": [
-                            "categorical_to_int"
-                        ],
-                        "385W": [
-                            "categorical_to_int"
-                        ],
-                        "386F": [
-                            "categorical_to_int"
-                        ],
-                        "389S": [
-                            "categorical_to_int"
-                        ],
-                        "390S": [
-                            "categorical_to_int"
-                        ],
-                        "391R": [
-                            "categorical_to_int"
-                        ],
-                        "392R": [
-                            "categorical_to_int"
-                        ],
-                        "393V": [
-                            "categorical_to_int"
-                        ],
-                        "394C": [
-                            "categorical_to_int"
-                        ],
-                        "395D": [
-                            "categorical_to_int"
-                        ],
-                        "396L": [
-                            "categorical_to_int"
-                        ],
-                        "397Y": [
-                            "categorical_to_int"
-                        ],
-                        "401E": [
-                            "categorical_to_int"
-                        ],
-                        "402W": [
-                            "categorical_to_int"
-                        ],
-                        "414C": [
-                            "categorical_to_int"
-                        ],
-                        "415F": [
-                            "categorical_to_int"
-                        ],
-                        "416E": [
-                            "categorical_to_int"
-                        ],
-                        "417E": [
-                            "categorical_to_int"
-                        ],
-                        "418I": [
-                            "categorical_to_int"
-                        ],
-                        "419K": [
-                            "categorical_to_int"
-                        ],
-                        "420D": [
-                            "categorical_to_int"
-                        ],
-                        "421R": [
-                            "categorical_to_int"
-                        ],
-                        "422S": [
-                            "categorical_to_int"
-                        ],
-                        "423H": [
-                            "categorical_to_int"
-                        ],
-                        "424K": [
-                            "categorical_to_int"
-                        ],
-                        "425I": [
-                            "categorical_to_int"
-                        ],
-                        "426W": [
-                            "categorical_to_int"
-                        ],
-                        "427H": [
-                            "categorical_to_int"
-                        ],
-                        "428F": [
-                            "categorical_to_int"
-                        ]
-                    },
-                    "target_preprocessing": [
-                        "na_exclude",
-                        "categorical_to_int"
-                    ],
-                    "ml_task": "multiclass_classification"
-                },
-                "validation_strategy": {
-                    "validation_type": "kfold",
-                    "k_folds": 5,
-                    "shuffle": true,
-                    "stratify": true,
-                    "X_path": "automl_stereo/X.data",
-                    "y_path": "automl_stereo/y.data",
-                    "results_path": "automl_stereo"
-                },
-                "learner": {
-                    "model_type": "Xgboost",
-                    "ml_task": "multiclass_classification",
-                    "n_jobs": -1,
-                    "seed": 1237,
-                    "objective": "multi:softprob",
-                    "eta": 0.1,
-                    "max_depth": 7,
-                    "min_child_weight": 50,
-                    "subsample": 0.9,
-                    "colsample_bytree": 0.6,
-                    "eval_metric": "mlogloss",
-                    "num_class": 3,
-                    "explain_level": 2
-                },
-                "automl_random_state": 1234,
-                "ml_task": "multiclass_classification",
-                "explain_level": 2,
-                "name": "31_Xgboost",
-                "status": "skipped",
-                "final_loss": 0.6344933858130208,
-                "train_time": 76.581711769104,
+                "final_loss": 0.6283807630703718,
+                "train_time": 185.9604480266571,
                 "data_type": "original",
                 "max_time_for_learner": 72.0
             }
@@ -10029,8 +9659,8 @@
                 "is_stacked": false,
                 "name": "Ensemble",
                 "status": "trained",
-                "final_loss": 0.6210456195398513,
-                "train_time": 0.35466933250427246
+                "final_loss": 0.6210125103432078,
+                "train_time": 1.3766086101531982
             }
         ]
     },

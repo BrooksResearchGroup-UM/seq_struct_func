@@ -5,24 +5,28 @@
     "selected_models": [
         {
             "model": "11_CatBoost",
-            "repeat": 1.0
+            "repeat": 2.0
         },
         {
             "model": "17_CatBoost",
-            "repeat": 1.0
+            "repeat": 2.0
         },
         {
-            "model": "26_RandomForest",
-            "repeat": 1.0
+            "model": "25_CatBoost",
+            "repeat": 4.0
+        },
+        {
+            "model": "26_CatBoost",
+            "repeat": 3.0
         },
         {
             "model": "9_CatBoost",
-            "repeat": 1.0
+            "repeat": 3.0
         }
     ],
     "predictions_fname": "Ensemble/predictions_ensemble.csv",
     "metric_name": "logloss",
-    "final_loss": 0.6210456195398513,
-    "train_time": 0.35466933250427246,
+    "final_loss": 0.6210125103432078,
+    "train_time": 1.3766086101531982,
     "is_stacked": false
 }
