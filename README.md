@@ -4,7 +4,7 @@
 - Conda enviornments required to run pipeline and jupyter notebooks are located in conda_yml.
     - seq_struct_func.yml for steps 1,5-7
     - alphafold2.yml for step 2
-    - build environnments with `conda env build -f X.yml`
+    - build environnments with `conda env create -f X.yml`
     - steps 3 and 4 require pyCHARMM and MMTSB to be installed in seq_struc_func     
         - https://academiccharmm.org/documentation/latest/pycharmm
         - https://chemrxiv.org/engage/chemrxiv/article-details/63c6b40230e3e5222e937adc 
