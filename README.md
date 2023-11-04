@@ -62,7 +62,7 @@
     - Generate Multiple Sequence Alignment
 - script/get_bs_ss_residues.ipynb
     - Get set of binding site and second shell residues
-- script/vis_pred.ipynb
+- script/slice_msa.ipynb
     - Modify MSA to be limited to binding site and second shell residues
 
 ### Step 7: (seq_func/)   Training Sequence-Function Model and SHAP Analysis
