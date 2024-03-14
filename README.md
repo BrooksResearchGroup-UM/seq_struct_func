@@ -1,5 +1,8 @@
 # Guide to running sequence-structure-function pipeline
 
+Accompanying tutorial scripts for our [Bioinformatics paper](https://doi.org/10.1093/bioinformatics/btae002).
+
+## Setup
 - Collection of jupyter notebook scripts demonstrating various aspects of pipeline.
 - Conda enviornments required to run pipeline and jupyter notebooks are located in conda_yml.
     - seq_struct_func.yml for steps 1,5-7
