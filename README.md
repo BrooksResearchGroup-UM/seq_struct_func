@@ -1,6 +1,6 @@
 # Guide to running sequence-structure-function pipeline
 
-Accompanying tutorial scripts for our [Bioinformatics paper](https://doi.org/10.1093/bioinformatics/btae002).
+Refer to our paper in [Bioinformatics](https://doi.org/10.1093/bioinformatics/btae002) for more details.
 
 ## Setup
 - Collection of jupyter notebook scripts demonstrating various aspects of pipeline.
